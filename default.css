@@ -139,14 +139,6 @@ input, textarea, select {
 
 /** LOGO */
 
-#banner {
-	width: 620px;
-	height: 240px;
-	margin: 0 auto;
-	padding: 10px 0 0 0;
-	background: #BCE03E url(images/img04.jpg) no-repeat left top;
-}
-
 #logo {
 	width: 820px;
 	height: 60px;
