@@ -370,6 +370,14 @@ html>body #footer {
 #footer p {
 }
 
+#lastupdated {
+	clear: both;
+	padding-top: 10px;
+	padding-left: 30px;
+	text-align: center;
+	color: #999999;
+}
+
 #legal {
 	clear: both;
 	padding-top: 10px;
