@@ -218,6 +218,10 @@ input, textarea, select {
 .post h1 {
 }
 
+.chart_div {
+	float : center;
+}
+
 .post h2 {
 	height: 32px;
 	padding: 8px 0 0 15px;
