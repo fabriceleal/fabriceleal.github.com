@@ -1,4 +1,0 @@
-
-var languages = [["C#",1173951],["C",125102],["JavaScript",49376],["Clojure",30531],["Python",20900],["Assembly",8754],["Perl",3882],["Shell",1515],["Haskell",323]]
-
-var stacked = {"projects":["ImageProcessing","VendingMachine","PsWebServer","SerialPortCommunication","YoutubeDesktop","FrenchVerbsConjugator","RailsExperiences","PhpExperiences","ProjectEuler","Os-Plays","Make-CodeFiles","C-Haskell","Transport-Proxy","fabriceleal.github.com","PythonTemplates","Rofs","Jed"],"months":["2011-08","2011-09","2011-10","2011-11","2011-12","2012-01","2012-02","2012-03","2012-04"],"data":[[0,2,0,6,0,0,0,0,0],[0,2,0,0,0,0,0,0,0],[0,2,0,0,8,0,0,0,0],[0,0,2,0,0,0,0,0,0],[0,0,0,6,12,0,5,5,0],[0,0,0,3,0,0,0,0,0],[0,0,0,0,2,0,0,0,0],[0,0,0,0,13,0,0,0,0],[0,0,0,0,30,0,0,0,0],[0,0,0,0,0,15,15,0,0],[0,0,0,0,0,5,6,1,0],[0,0,0,0,0,14,0,0,0],[0,0,0,0,0,0,2,7,0],[0,0,0,0,0,0,0,8,2],[0,0,0,0,0,0,0,18,0],[0,0,0,0,0,0,0,30,0],[0,0,0,0,0,0,0,0,13]]};
