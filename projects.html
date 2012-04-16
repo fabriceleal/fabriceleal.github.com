@@ -40,7 +40,7 @@ Description: A two-column, fixed-width and lightweight template ideal for 1024x7
 					var data = new google.visualization.DataTable();
 					data.addColumn('string', 'Language');
 					data.addColumn('number', 'Size of Codebase');
-					data.addRows(languages);
+					data.addRows(data);
 
 					// Set chart options
 					var options = {'title':'Size of Codebase per Language',
@@ -55,7 +55,7 @@ Description: A two-column, fixed-width and lightweight template ideal for 1024x7
       }
 	  
 		function drawCommitHistoryPerRepository(url) {
-			request_json(url , function(data){
+			request_json(url , function(stacked){
 				  // Some raw data (not necessarily accurate)
 				  var countries = stacked.projects;
 				  var months = stacked.months;
