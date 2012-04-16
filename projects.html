@@ -40,7 +40,7 @@ Description: A two-column, fixed-width and lightweight template ideal for 1024x7
 					var data = new google.visualization.DataTable();
 					data.addColumn('string', 'Language');
 					data.addColumn('number', 'Size of Codebase');
-					data.addRow(langs);
+					data.addRows(langs);
 
 					// Set chart options
 					var options = {'title':'Size of Codebase per Language',
