@@ -35,12 +35,12 @@ Description: A two-column, fixed-width and lightweight template ideal for 1024x7
       // instantiates the pie chart, passes in the data and
       // draws it.
       function drawChart(url) {
-			request_json(url, function(data){
+			request_json(url, function(langs){
 					// Create the data table.
 					var data = new google.visualization.DataTable();
 					data.addColumn('string', 'Language');
 					data.addColumn('number', 'Size of Codebase');
-					data.addRows(data);
+					data.addRow(langs);
 
 					// Set chart options
 					var options = {'title':'Size of Codebase per Language',
