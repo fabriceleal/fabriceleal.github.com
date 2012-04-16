@@ -24,7 +24,7 @@ if (typeof XMLHttpRequest == "undefined")
 function request_json(url, callback){
 	var req = new XMLHttpRequest();
 	req.open("GET", url, true);
-	req.onreadystatechanged = function(){
+	req.onreadystatechange = function(){
 		if(req.readyState != 4) { return; }
 		
 		var data = JSON.parse(req.responseText);
