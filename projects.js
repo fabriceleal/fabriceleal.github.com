@@ -22,7 +22,7 @@ function loadCharts(){
 					data.addRows(langs);
 
 					// Set chart options
-					var options = {'title':'Size of Codebase per Language',
+					var options = {'title':'Size of Codebase by Language',
 									  'width':800,
 									  'height':300,
 								'halign' : 'center'};
@@ -45,7 +45,7 @@ function loadCharts(){
 					data.addRows(langs);
 
 					// Set chart options
-					var options = {'title':'Size of Codebase per Repository',
+					var options = {'title':'Size of Codebase by Repository',
 									  'width':800,
 									  'height':300,
 								'halign' : 'center'};
@@ -55,6 +55,25 @@ function loadCharts(){
 					chart.draw(data, options);
 			});		
       }
+
+		function drawReposCreated(url){
+			request_json(url, function(created){
+				// Create datatable
+				var data = new google.visualization.DataTable();
+				data.addColumn('string', 'Month');
+				data.addColumn('number', '# Repos Created');
+				data.addRows(created);
+
+				// Inst and draw chart
+				new google.visualization.BarChart(document.getElementById('visualization')).
+						draw(data,
+							  {title:"Repos Created by Month",
+								width:600, height:400,
+								vAxis: {title: "Year"},
+								hAxis: {title: "Repos Created"}}
+						);
+			});
+		}	
 	  
 		function drawCommitHistoryPerRepository(url) {
 			request_json(url , function(stacked){
@@ -80,14 +99,14 @@ function loadCharts(){
 					}
 				  }
 				  // Create and draw the visualization.
-				  var ac = new google.visualization.BarChart(document.getElementById('chart3_div'));
+				  var ac = new google.visualization.BarChart(document.getElementById('chart4_div'));
 				  ac.draw(data, {
-					title : 'Monthly Commit Activity per Repository',
+					title : 'Monthly Commit Activity by Repository',
 					isStacked: true,
 					width: 800,
 					height: 400,
-					vAxis: {title: "Commits"},
-					hAxis: {title: "Month"}
+					vAxis: {title: "Month"},
+					hAxis: {title: "Commits"}
 				  });				
 			});
 		}
