@@ -68,8 +68,8 @@ function loadCharts(){
 				// Inst and draw chart
 				new google.visualization.BarChart(document.getElementById('chart3_div')).
 						draw(data,
-							  {title:"Repos Created by Month",
-								width:600, height:400,
+							  {title: "Repos Created by Month",
+								width: 800, height: 400,
 								vAxis: {title: "Year"},
 								hAxis: {title: "Repos Created"}}
 						);
