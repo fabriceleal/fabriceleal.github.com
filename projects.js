@@ -7,6 +7,7 @@ function loadCharts(){
       google.setOnLoadCallback(function drawAll(){
 			drawChart('languages.json');
 			drawChart2('repositories.json');
+			drawReposCreated('repos_created.json');
 			drawCommitHistoryPerRepository('stackedhistory.json');
 		});
 
