@@ -20,79 +20,9 @@ Description: A two-column, fixed-width and lightweight template ideal for 1024x7
 <link href="default.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript" src="nice_ajax.js"></script>
-<script type="text/javascript">
-
-      // Load the Visualization API and the piechart package.
-      google.load('visualization', '1.0', {'packages':['corechart']});
-
-      // Set a callback to run when the Google Visualization API is loaded.
-      google.setOnLoadCallback(function drawAll(){
-			drawChart('languages.json');
-			drawCommitHistoryPerRepository('stackedhistory.json');
-		});
-
-      // Callback that creates and populates a data table,
-      // instantiates the pie chart, passes in the data and
-      // draws it.
-      function drawChart(url) {
-			request_json(url, function(langs){
-					// Create the data table.
-					var data = new google.visualization.DataTable();
-					data.addColumn('string', 'Language');
-					data.addColumn('number', 'Size of Codebase');
-					data.addRows(langs);
-
-					// Set chart options
-					var options = {'title':'Size of Codebase per Language',
-									  'width':800,
-									  'height':300,
-								'halign' : 'center'};
-
-					// Instantiate and draw our chart, passing in some options.
-					var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-					chart.draw(data, options);
-			});		
-      }
-	  
-		function drawCommitHistoryPerRepository(url) {
-			request_json(url , function(stacked){
-				  // Some raw data (not necessarily accurate)
-				  var countries = stacked.projects;
-				  var months = stacked.months;
-				  var productionByCountry = stacked.data;
-
-				  // Create and populate the data table.
-				  var data = new google.visualization.DataTable();
-				  data.addColumn('string', 'Month');
-				  for (var i = 0; i < countries.length; ++i) {
-					data.addColumn('number', countries[i]);
-				  }
-				  data.addRows(months.length);
-				  for (var i = 0; i < months.length; ++i) {
-					data.setCell(i, 0, months[i]);
-				  }
-				  for (var i = 0; i < countries.length; ++i) {
-					var country = productionByCountry[i];
-					for (var month = 0; month < months.length; ++month) {
-					  data.setCell(month, i + 1, country[month]);
-					}
-				  }
-				  // Create and draw the visualization.
-				  var ac = new google.visualization.BarChart(document.getElementById('chart2_div'));
-				  ac.draw(data, {
-					title : 'Monthly Commit Activity per Repository',
-					isStacked: true,
-					width: 800,
-					height: 400,
-					vAxis: {title: "Commits"},
-					hAxis: {title: "Month"}
-				  });				
-		});
-
-		}
-    </script>
+<script type="text/javascript" src="projects.js"></script>
 </head>
-<body>
+<body onload="loadCharts();">
 
 <div id="logo-wrap">
 <div id="logo">
