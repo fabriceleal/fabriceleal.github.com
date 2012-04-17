@@ -66,7 +66,7 @@ function loadCharts(){
 				data.addRows(created);
 
 				// Inst and draw chart
-				new google.visualization.BarChart(document.getElementById('visualization')).
+				new google.visualization.BarChart(document.getElementById('chart3_div')).
 						draw(data,
 							  {title:"Repos Created by Month",
 								width:600, height:400,
