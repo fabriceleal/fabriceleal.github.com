@@ -6,6 +6,7 @@ function loadCharts(){
       // Set a callback to run when the Google Visualization API is loaded.
       google.setOnLoadCallback(function drawAll(){
 			drawChart('languages.json');
+			drawChart2('repositories.json');
 			drawCommitHistoryPerRepository('stackedhistory.json');
 		});
 
@@ -28,6 +29,29 @@ function loadCharts(){
 
 					// Instantiate and draw our chart, passing in some options.
 					var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+					chart.draw(data, options);
+			});		
+      }
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart2(url) {
+			request_json(url, function(langs){
+					// Create the data table.
+					var data = new google.visualization.DataTable();
+					data.addColumn('string', 'Repository');
+					data.addColumn('number', 'Size of Repository');
+					data.addRows(langs);
+
+					// Set chart options
+					var options = {'title':'Size of Codebase per Repository',
+									  'width':800,
+									  'height':300,
+								'halign' : 'center'};
+
+					// Instantiate and draw our chart, passing in some options.
+					var chart = new google.visualization.PieChart(document.getElementById('chart2_div'));
 					chart.draw(data, options);
 			});		
       }
@@ -56,7 +80,7 @@ function loadCharts(){
 					}
 				  }
 				  // Create and draw the visualization.
-				  var ac = new google.visualization.BarChart(document.getElementById('chart2_div'));
+				  var ac = new google.visualization.BarChart(document.getElementById('chart3_div'));
 				  ac.draw(data, {
 					title : 'Monthly Commit Activity per Repository',
 					isStacked: true,
