@@ -92,7 +92,3 @@ function loadCharts(){
 			});
 		}
 }
-
-window.onload = function(){
-	loadCharts();
-}
