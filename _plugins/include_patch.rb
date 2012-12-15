@@ -3,6 +3,8 @@ module Jekyll
 
   class IncludeTag < Liquid::Tag
     def render(context)
+#      return "HELLO"
+
       file = context[@file] || @file
       includes_dir = File.join(context.registers[:site].source, '_includes')
 
@@ -13,6 +15,9 @@ module Jekyll
       if file !~ /^[a-zA-Z0-9_\/\.-]+$/ || file =~ /\.\// || file =~ /\/\./
         return "Include file '#{file}' contains invalid characters or sequences"
       end
+
+#      "QWE"
+#      includes_dir
 
       Dir.chdir(includes_dir) do
         choices = Dir['**/*'].reject { |x| File.symlink?(x) } 
@@ -26,6 +31,7 @@ module Jekyll
           "Included file '#{file}' not found in _includes directory"
         end
       end
+
     end
   end
 
