@@ -5,6 +5,3 @@ lsi: false
 pygments: true
 
 paginate: 5
-paginate_files:
-	- blog.html
-
