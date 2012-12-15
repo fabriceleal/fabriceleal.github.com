@@ -6,4 +6,5 @@ pygments: true
 
 paginate: 5
 
-motto: cat /dev/random > /dev/null
+motto: "cat /dev/random > /dev/null"
+
