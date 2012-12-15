@@ -19,14 +19,24 @@ module Jekyll
 #      "QWE"
 #      includes_dir
 
+#      return "QWE"
+
+      #return file
+      #return includes_dir
+      
+
       Dir.chdir(includes_dir) do
         choices = Dir['**/*'].reject { |x| File.symlink?(x) } 
+
         if choices.include?(file)
+          
           source = File.read(file)
           partial = Liquid::Template.parse(source)
+  
           context.stack do
             partial.render(context)
           end
+#          return "ok!"
         else
           "Included file '#{file}' not found in _includes directory"
         end

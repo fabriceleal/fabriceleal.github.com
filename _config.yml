@@ -1,4 +1,4 @@
-safe: true
+safe: false
 source: .
 destination: ./_site
 
