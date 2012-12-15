@@ -1,3 +1,10 @@
 ---
 layout: default
 ---
+{% for each contact in site.contacts  %}
+<div>
+  <p>{{ contact.title }}</p>
+  <img src="{{ contact.img }}" />
+  <a href="{{ contact.url }}">Go!</a>
+</div>
+{% endfor %}
