@@ -46,3 +46,5 @@ module Jekyll
   end
 
 end
+
+Liquid::Template.register_tag('include', Jekyll::IncludeTag)

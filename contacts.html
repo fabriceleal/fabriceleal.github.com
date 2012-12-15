@@ -5,11 +5,11 @@ layout: default
 
 {% for each contact in site.contacts  %}
 <div class="inner">
+  <p>{{ contact.title }}</p>
   {% if contact.fragment %}
   {% assign frag = contact.fragment %}
   {% include frag %}
   {% endif %}
-  <p>{{ contact.title }}</p>
   <img width="150px" src="{{ contact.img }}" />
   <a href="{{ contact.url }}">Go!</a>
 </div>
