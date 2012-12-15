@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Fabrice Leal : /dev/random &gt; /dev/null" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Fabrice Leal</title>
+  </head>
+
+  <body>
+
+    <div class="container">
+      {% include header.html %}
+
+      <!-- CONTENT GOES HERE -->
+      <div id="main">
+	{{ content }}
+      </div>
+
+      {% include footer.html %}
+
+      {% include google-analytics.html %}
+
+    </div>   
+
+  </body>
+</html>
