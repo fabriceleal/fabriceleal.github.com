@@ -13,19 +13,20 @@
 
   <body>
 
-    <div class="container">
+
       {% include header.html %}
 
       <!-- CONTENT GOES HERE -->
-      <div id="main">
-	{{ content }}
+      <div id="main_content_wrap" class="outer">
+	<section id="main_content" class="inner">
+	  {{ content }}
+	</section>
       </div>
 
       {% include footer.html %}
 
       {% include google-analytics.html %}
 
-    </div>   
 
   </body>
 </html>
