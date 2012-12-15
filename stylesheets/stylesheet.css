@@ -257,7 +257,7 @@ form {
   padding: 20px;
 }
 
-img {
+img .fullwidth {
   width: 100%;
   max-width: 100%;
 }

@@ -1,6 +1,7 @@
 safe: true
 source: .
 destination: ./_site
+plugins: ./_plugins
 lsi: false
 pygments: true
 
@@ -10,6 +11,7 @@ motto: "cat /dev/random > /dev/null"
 
 contacts:
    - title: "Linkedin"
+     fragment: "linkedin.html"
      img: "images/linkedin.png"
      url: "http://www.linkedin.com"
 

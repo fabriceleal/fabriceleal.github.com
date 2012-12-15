@@ -2,13 +2,14 @@
 layout: default
 ---
 
-{% include linkedin.html %}
-
-
 {% for each contact in site.contacts  %}
 <div class="inner">
+  {% if contact.fragment %}
+  {% assign page = contact.fragment %}
+  {% include page %}
+  {% endif %}
   <p>{{ contact.title }}</p>
-  <img width="60px" src="{{ contact.img }}" />
+  <img width="150px" src="{{ contact.img }}" />
   <a href="{{ contact.url }}">Go!</a>
 </div>
 {% endfor %}
