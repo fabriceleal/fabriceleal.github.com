@@ -283,14 +283,15 @@ Full-Width Styles
 
 .menu_row {
 /*  float: left;*/
+  height:16px;
 }
 
 .menu_bt {
   float: left;
-/*  height: 30px;
+/*  height: 50px;
   width:  50px;*/
   padding: 10px 50px 10px 10px;
-  z-index: 50;
+  z-index: 0;
   color: #fff;
   background: #0090ff;
   font-weight: 700;
