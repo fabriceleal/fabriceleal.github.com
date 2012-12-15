@@ -3,25 +3,15 @@ layout: default
 ---
 
 <div>
-  {% assign posts = paginator.posts %}
 
-
-  {% if paginator.previous_page %}
-  Previous page
-  {% endif %}
-
-  <div>{{ page.title }}</div>
 
   <div>Start</div>
 
-  {% for post in posts limit: listing_limit %}
-  <div>A post</div>
+  {% for post in site.posts limit: listing_limit %}
+  <div>A post {{ post.title }}</div>
   {% endfor %}
 
   <div>End</div>
 
-  {% if paginator.next_page %}
-  Next page
-  {% endif %}
 
 </div>
