@@ -52,8 +52,58 @@
 	</div>-->
 
 	
-	  <p>This is still under construction... check my <a href="https://github.com/fabriceleal">github profile</a> to get a feel of what I've been doing</p>
+	  <h1 id='compile_c_code_with_c11_threads'>Compile C++ code with C++11 threads</h1>
 
+<p>Consider the following code, which uses the C++11 (used to be known as C++0x) thread library:</p>
+
+<pre><code>#include &lt;iostream&gt;
+#include &lt;thread&gt;
+
+using namespace std;
+
+void hello_world()
+{
+  cout &lt;&lt; &quot;Hello from thread!\n&quot;;
+}
+
+int main()
+{
+  thread t(hello_world);
+  t.join();
+  return 0;
+}</code></pre>
+
+<p>How can we get this to work? If we compile it with:</p>
+
+<pre><code>g++ bare.cpp -o bare</code></pre>
+
+<p>We&#8217;ll get something like:</p>
+
+<pre><code>/usr/include/c++/4.5/bits/c++0x_warning.h:31:2: error: #error This file requires compiler and library support for the upcoming ISO C++ standard, C++0x. This support is currently experimental, and must be enabled with the -std=c++0x or -std=gnu++0x compiler options.</code></pre>
+
+<p>&#8230; and maybe something about the <code>thread</code> type used in the code:</p>
+
+<pre><code>error: ‘thread’ was not declared in this scope</code></pre>
+
+<p>So we add the <code>std=c++0x</code> &#8230;</p>
+
+<pre><code>g++ bare.cpp -std=c++0x -o bare</code></pre>
+
+<p>No errors during compilation, but when we try to execute <code>bare</code>&#8230;</p>
+
+<pre><code>$ ./bare
+terminate called after throwing an instance of &#39;std::system_error&#39;
+  what():  
+Aborted</code></pre>
+
+<p>&#8230; oops. We have to link this against the operating system&#8217;s implementation of threads. In linux, this is the <code>libpthread</code> library. The winning command is:</p>
+
+<pre><code>g++ bare.cpp -std=c++0x -lpthread -o bare</code></pre>
+
+<p>and then:</p>
+
+<pre><code>$ ./bare
+Hello from thread!</code></pre>
 	
 
 	</section>
