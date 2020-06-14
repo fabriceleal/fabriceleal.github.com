@@ -19,13 +19,9 @@
     <script type="text/javascript">
 		$(function(){
 
-
             $.ajax("/data/home.json").done(function(data) {
-				var $content = $('#content');
-				$content.html("");
 
-                $('#title').text(data.Player);
-               
+                $('#title').text(data.Player);               
 			});
 		});
 
