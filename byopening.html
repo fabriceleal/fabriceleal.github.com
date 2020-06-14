@@ -1,0 +1,190 @@
+﻿<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+          crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+            integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+            crossorigin="anonymous"></script>
+
+    <style>
+
+        .board-container {
+            padding: 0;
+            margin: 0;
+        }
+
+        .board {
+            max-width: 400px;
+            width: 80%;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-wrap: wrap;
+            flex-wrap: wrap;
+            margin: auto;
+            border: 1px solid black;
+        }
+
+        .square {
+            padding: 1px;
+            width: 12.5%;
+        }
+
+        .dark-square {
+            background-color: #8b4513;
+        }
+
+        .light-square {
+            background-color: #cd853f;
+        }
+
+        .piece-container {
+            width: 100%;
+            height: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+
+        .wk {
+            background-image: url(/svg/wk.svg)
+        }
+
+        .wq {
+            background-image: url(/svg/wq.svg)
+        }
+
+        .wr {
+            background-image: url(/svg/wr.svg)
+        }
+
+        .wb {
+            background-image: url(/svg/wb.svg)
+        }
+
+        .wn {
+            background-image: url(/svg/wn.svg)
+        }
+
+        .wp {
+            background-image: url(/svg/wp.svg)
+        }
+
+        .bk {
+            background-image: url(/svg/bk.svg)
+        }
+
+        .bq {
+            background-image: url(/svg/bq.svg)
+        }
+
+        .br {
+            background-image: url(/svg/br.svg)
+        }
+
+        .bb {
+            background-image: url(/svg/bb.svg)
+        }
+
+        .bn {
+            background-image: url(/svg/bn.svg)
+        }
+
+        .bp {
+            background-image: url(/svg/bp.svg)
+        }
+
+        .wins {
+            color: green;
+        }
+
+        .loses {
+            color: red;
+        }
+    </style>
+
+    <script>
+		$(function(){
+
+			// decide which json to load from id (in url)
+			var id = (new window.URLSearchParams(window.location.search)).get('id');
+			
+
+            $.ajax("/data/byopening" + id + ".json").done(function(data) {
+				var $content = $('#content');
+				$content.html("");
+
+				// decide which game to load from game id (in url)
+
+                $('#title').text(data.Player);
+                $('#subtitle').text(data.Subtitle);
+
+                var $table = $("<table class='table table-striped'></table>");
+
+                var thead = "<thead class='thead-light'><tr>";
+                thead += "<th scope='col'>Eco</th>";
+                thead += "<th scope='col'>Opening</th>";
+                thead += "<th scope='col'>Variation</th>";
+                thead += "<th scope='col'>Score</th>";
+                thead += "<th scope='col'>Games</th>";
+                thead += "</tr></thead>";
+                $table.append(thead);
+
+                var $tbody = $('<tbody></tbody>');
+
+                $.each(data.Data, function (idx, item) {
+                    var $tr = $("<tr></tr>");
+
+                    var $cell = $('<td></td>');
+                    $cell.text(item.Eco);
+                    $tr.append($cell);
+
+                    $cell = $('<td></td>');
+                    $cell.text(item.Opening);
+                    $tr.append($cell);
+
+                    $cell = $('<td></td>');
+                    $cell.text(item.Variation);
+                    $tr.append($cell);
+
+                    $cell = $('<td></td>');
+                    $cell.html('<span class="wins">' + item.Wins + '</span> ' + item.Draws + ' <span class="loses">' + item.Loses + '</span>');
+                    $tr.append($cell);
+
+                    $cell = $('<td></td>');
+                    $cellC = $('<div></div>');
+
+                    $.each(item.Games, function (idx, item) {
+                        if (idx > 0)
+                            $cellC.append(', ');
+                        $cellC.append($('<a href="game.html?id=' + item + '">' + item.toString().padStart(3, '0') + '</a>'));
+                    });
+
+                    $cell.append($cellC);
+                    $tr.append($cell);
+
+                    $tbody.append($tr);
+                });
+
+                $table.append($tbody);
+                $content.html($table);
+			});
+		});
+
+    </script>
+</head>
+<body>
+	<h1 id="title"></h1>
+	<h2 id="subtitle"></h2>
+    <div id="content" class="container table-responsive">
+
+    </div>
+</body>
+</html>

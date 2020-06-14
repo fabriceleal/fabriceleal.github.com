@@ -1,0 +1,1881 @@
+{
+  "Player": "Nezhmetdinov, Rashid",
+  "Subtitle": "with black",
+  "Data": [
+    {
+      "Eco": "A03",
+      "Opening": "Bird's opening",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        439
+      ]
+    },
+    {
+      "Eco": "A04",
+      "Opening": "Reti opening",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 0.5,
+      "Games": [
+        411,
+        468
+      ]
+    },
+    {
+      "Eco": "A05",
+      "Opening": "Reti",
+      "Variation": "King's Indian attack",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        158
+      ]
+    },
+    {
+      "Eco": "A07",
+      "Opening": "Reti",
+      "Variation": "King's Indian attack",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        340
+      ]
+    },
+    {
+      "Eco": "A07",
+      "Opening": "Reti",
+      "Variation": "King's Indian attack (Barcza system)",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        476
+      ]
+    },
+    {
+      "Eco": "A10",
+      "Opening": "English opening",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        280,
+        457
+      ]
+    },
+    {
+      "Eco": "A10",
+      "Opening": "English opening",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        312
+      ]
+    },
+    {
+      "Eco": "A15",
+      "Opening": "English opening",
+      "Variation": "",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 3,
+      "NPoints": 2.5,
+      "Games": [
+        122,
+        311,
+        398
+      ]
+    },
+    {
+      "Eco": "A16",
+      "Opening": "English opening",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 3,
+      "NPoints": 1.5,
+      "Games": [
+        125,
+        137,
+        222
+      ]
+    },
+    {
+      "Eco": "A21",
+      "Opening": "English opening",
+      "Variation": "",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 3,
+      "NPoints": 2.5,
+      "Games": [
+        333,
+        342,
+        386
+      ]
+    },
+    {
+      "Eco": "A32",
+      "Opening": "English",
+      "Variation": "symmetrical variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        486
+      ]
+    },
+    {
+      "Eco": "A33",
+      "Opening": "English",
+      "Variation": "symmetrical variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        78
+      ]
+    },
+    {
+      "Eco": "A36",
+      "Opening": "English",
+      "Variation": "ultra-symmetrical variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        203
+      ]
+    },
+    {
+      "Eco": "A40",
+      "Opening": "Modern defence",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        226
+      ]
+    },
+    {
+      "Eco": "A40",
+      "Opening": "Queen's pawn",
+      "Variation": "Franco-Indian (Keres) defence",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        334
+      ]
+    },
+    {
+      "Eco": "A41",
+      "Opening": "Old Indian defence",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        303
+      ]
+    },
+    {
+      "Eco": "A41",
+      "Opening": "Modern defence",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        344
+      ]
+    },
+    {
+      "Eco": "A46",
+      "Opening": "Queen's pawn game",
+      "Variation": "",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 2,
+      "NPoints": 2.0,
+      "Games": [
+        14,
+        23
+      ]
+    },
+    {
+      "Eco": "A48",
+      "Opening": "King's Indian",
+      "Variation": "London system",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        86
+      ]
+    },
+    {
+      "Eco": "A48",
+      "Opening": "King's Indian",
+      "Variation": "East Indian defence",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        116
+      ]
+    },
+    {
+      "Eco": "A48",
+      "Opening": "King's Indian",
+      "Variation": "Torre attack",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        371
+      ]
+    },
+    {
+      "Eco": "A49",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto without c4",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 2,
+      "NGames": 2,
+      "NPoints": 0.0,
+      "Games": [
+        193,
+        358
+      ]
+    },
+    {
+      "Eco": "A53",
+      "Opening": "Old Indian defence",
+      "Variation": "",
+      "Wins": 4,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 4,
+      "NPoints": 4.0,
+      "Games": [
+        74,
+        84,
+        100,
+        119
+      ]
+    },
+    {
+      "Eco": "A54",
+      "Opening": "Old Indian",
+      "Variation": "Ukrainian variation, 4.Nf3",
+      "Wins": 3,
+      "Draws": 3,
+      "Loses": 2,
+      "NGames": 8,
+      "NPoints": 4.5,
+      "Games": [
+        63,
+        218,
+        238,
+        246,
+        279,
+        306,
+        392,
+        463
+      ]
+    },
+    {
+      "Eco": "A54",
+      "Opening": "Old Indian",
+      "Variation": "Ukrainian variation",
+      "Wins": 4,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 4,
+      "NPoints": 4.0,
+      "Games": [
+        7,
+        25,
+        245,
+        408
+      ]
+    },
+    {
+      "Eco": "A55",
+      "Opening": "Old Indian",
+      "Variation": "main line",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        159
+      ]
+    },
+    {
+      "Eco": "A56",
+      "Opening": "Benoni defence, Hromodka system",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        99,
+        126
+      ]
+    },
+    {
+      "Eco": "A61",
+      "Opening": "Benoni",
+      "Variation": "Nimzovich (knight's tour) variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        50
+      ]
+    },
+    {
+      "Eco": "A62",
+      "Opening": "Benoni",
+      "Variation": "fianchetto variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        65
+      ]
+    },
+    {
+      "Eco": "A65",
+      "Opening": "Benoni",
+      "Variation": "6.e4",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        70
+      ]
+    },
+    {
+      "Eco": "A67",
+      "Opening": "Benoni",
+      "Variation": "Taimanov variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        185
+      ]
+    },
+    {
+      "Eco": "A77",
+      "Opening": "Benoni",
+      "Variation": "classical, 9...Re8, 10.Nd2",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 0.5,
+      "Games": [
+        46,
+        329
+      ]
+    },
+    {
+      "Eco": "A83",
+      "Opening": "Dutch",
+      "Variation": "Staunton gambit, Chigorin variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        26
+      ]
+    },
+    {
+      "Eco": "B00",
+      "Opening": "King's pawn opening",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        82
+      ]
+    },
+    {
+      "Eco": "B01",
+      "Opening": "Scandinavian (centre counter) defence",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        432
+      ]
+    },
+    {
+      "Eco": "B07",
+      "Opening": "Pirc defence",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        336
+      ]
+    },
+    {
+      "Eco": "B10",
+      "Opening": "Caro-Kann",
+      "Variation": "two knights variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        426
+      ]
+    },
+    {
+      "Eco": "B11",
+      "Opening": "Caro-Kann",
+      "Variation": "two knights, 3...Bg4",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        443
+      ]
+    },
+    {
+      "Eco": "B14",
+      "Opening": "Caro-Kann",
+      "Variation": "Panov-Botvinnik attack, 5...g6",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        448
+      ]
+    },
+    {
+      "Eco": "B16",
+      "Opening": "Caro-Kann",
+      "Variation": "Bronstein-Larsen variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        442
+      ]
+    },
+    {
+      "Eco": "B66",
+      "Opening": "Sicilian",
+      "Variation": "Richter-Rauzer, Rauzer attack, 7...a6",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        47
+      ]
+    },
+    {
+      "Eco": "B67",
+      "Opening": "Sicilian",
+      "Variation": "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        480
+      ]
+    },
+    {
+      "Eco": "C01",
+      "Opening": "French",
+      "Variation": "exchange variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        43
+      ]
+    },
+    {
+      "Eco": "C19",
+      "Opening": "French",
+      "Variation": "Winawer, advance, positional main line",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        266
+      ]
+    },
+    {
+      "Eco": "C21",
+      "Opening": "Danish gambit",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        273
+      ]
+    },
+    {
+      "Eco": "C26",
+      "Opening": "Vienna game",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        160
+      ]
+    },
+    {
+      "Eco": "C27",
+      "Opening": "Vienna game",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        61
+      ]
+    },
+    {
+      "Eco": "C29",
+      "Opening": "Vienna gambit",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        1
+      ]
+    },
+    {
+      "Eco": "C34",
+      "Opening": "KGA",
+      "Variation": "Becker defence",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        417
+      ]
+    },
+    {
+      "Eco": "C41",
+      "Opening": "Philidor",
+      "Variation": "Improved Hanham variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        348
+      ]
+    },
+    {
+      "Eco": "C42",
+      "Opening": "Petrov",
+      "Variation": "classical attack, close variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        481
+      ]
+    },
+    {
+      "Eco": "C44",
+      "Opening": "Inverted Hanham",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        88
+      ]
+    },
+    {
+      "Eco": "C45",
+      "Opening": "Scotch",
+      "Variation": "Mieses variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        67
+      ]
+    },
+    {
+      "Eco": "C45",
+      "Opening": "Scotch",
+      "Variation": "Schmidt variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        157
+      ]
+    },
+    {
+      "Eco": "C46",
+      "Opening": "Three knights game",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        38,
+        95
+      ]
+    },
+    {
+      "Eco": "C46",
+      "Opening": "Four knights game",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        3
+      ]
+    },
+    {
+      "Eco": "C47",
+      "Opening": "Four knights",
+      "Variation": "Scotch, 4...exd4",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        188
+      ]
+    },
+    {
+      "Eco": "C49",
+      "Opening": "Four knights",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        199
+      ]
+    },
+    {
+      "Eco": "C50",
+      "Opening": "King's pawn game",
+      "Variation": "",
+      "Wins": 3,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 4,
+      "NPoints": 3.0,
+      "Games": [
+        66,
+        249,
+        316,
+        374
+      ]
+    },
+    {
+      "Eco": "C56",
+      "Opening": "Two knights defence",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        179
+      ]
+    },
+    {
+      "Eco": "C58",
+      "Opening": "two knights defence",
+      "Variation": "Blackburne variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        153
+      ]
+    },
+    {
+      "Eco": "C59",
+      "Opening": "two knights defence",
+      "Variation": "Goering variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        93
+      ]
+    },
+    {
+      "Eco": "C59",
+      "Opening": "Two knights defence",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        321
+      ]
+    },
+    {
+      "Eco": "C63",
+      "Opening": "Ruy Lopez",
+      "Variation": "Schliemann defence, Berger variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 0.5,
+      "Games": [
+        175,
+        224
+      ]
+    },
+    {
+      "Eco": "C68",
+      "Opening": "Ruy Lopez",
+      "Variation": "exchange, Alekhine variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        34
+      ]
+    },
+    {
+      "Eco": "C68",
+      "Opening": "Ruy Lopez",
+      "Variation": "exchange, Keres variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        145
+      ]
+    },
+    {
+      "Eco": "C71",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        274
+      ]
+    },
+    {
+      "Eco": "C72",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence, 5.O-O",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 3,
+      "NGames": 5,
+      "NPoints": 2.0,
+      "Games": [
+        338,
+        356,
+        393,
+        434,
+        438
+      ]
+    },
+    {
+      "Eco": "C73",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence, Alapin variation",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 1,
+      "NGames": 3,
+      "NPoints": 1.0,
+      "Games": [
+        313,
+        387,
+        423
+      ]
+    },
+    {
+      "Eco": "C73",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence, Richter variation",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 2,
+      "NPoints": 1.5,
+      "Games": [
+        250,
+        402
+      ]
+    },
+    {
+      "Eco": "C74",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence, siesta variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        12
+      ]
+    },
+    {
+      "Eco": "C75",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        366,
+        379
+      ]
+    },
+    {
+      "Eco": "C76",
+      "Opening": "Ruy Lopez",
+      "Variation": "modern Steinitz defence, fianchetto (Bronstein) variation",
+      "Wins": 6,
+      "Draws": 2,
+      "Loses": 4,
+      "NGames": 12,
+      "NPoints": 7.0,
+      "Games": [
+        155,
+        170,
+        189,
+        211,
+        220,
+        258,
+        267,
+        275,
+        294,
+        296,
+        300,
+        364
+      ]
+    },
+    {
+      "Eco": "C77",
+      "Opening": "Ruy Lopez",
+      "Variation": "Morphy defence",
+      "Wins": 0,
+      "Draws": 3,
+      "Loses": 0,
+      "NGames": 3,
+      "NPoints": 1.5,
+      "Games": [
+        54,
+        136,
+        385
+      ]
+    },
+    {
+      "Eco": "C77",
+      "Opening": "Ruy Lopez",
+      "Variation": "Anderssen variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        121
+      ]
+    },
+    {
+      "Eco": "C77",
+      "Opening": "Ruy Lopez",
+      "Variation": "Wormald (Alapin) attack",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        205
+      ]
+    },
+    {
+      "Eco": "C77",
+      "Opening": "Ruy Lopez",
+      "Variation": "Treybal (Bayreuth) variation (exchange var. deferred)",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        285
+      ]
+    },
+    {
+      "Eco": "C78",
+      "Opening": "Ruy Lopez",
+      "Variation": "Archangelsk (counterthrust) variation",
+      "Wins": 1,
+      "Draws": 2,
+      "Loses": 1,
+      "NGames": 4,
+      "NPoints": 2.0,
+      "Games": [
+        380,
+        400,
+        416,
+        421
+      ]
+    },
+    {
+      "Eco": "C78",
+      "Opening": "Ruy Lopez",
+      "Variation": "...b5 & ...d6",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        180
+      ]
+    },
+    {
+      "Eco": "C84",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, centre attack",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 0.5,
+      "Games": [
+        36,
+        394
+      ]
+    },
+    {
+      "Eco": "C84",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed defence",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        191,
+        216
+      ]
+    },
+    {
+      "Eco": "C85",
+      "Opening": "Ruy Lopez",
+      "Variation": "Exchange variation doubly deferred (DERLD)",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        317
+      ]
+    },
+    {
+      "Eco": "C86",
+      "Opening": "Ruy Lopez",
+      "Variation": "Worrall attack, solid line",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        72,
+        235
+      ]
+    },
+    {
+      "Eco": "C86",
+      "Opening": "Ruy Lopez",
+      "Variation": "Worrall attack, sharp line",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        201
+      ]
+    },
+    {
+      "Eco": "C88",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, anti-Marshall 8.a4",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        459
+      ]
+    },
+    {
+      "Eco": "C89",
+      "Opening": "Ruy Lopez",
+      "Variation": "Marshall, main line, 14...Qh3",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        113
+      ]
+    },
+    {
+      "Eco": "C90",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, Pilnik variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 2,
+      "NGames": 3,
+      "NPoints": 1.0,
+      "Games": [
+        75,
+        109,
+        419
+      ]
+    },
+    {
+      "Eco": "C91",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, Bogolyubov variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        483
+      ]
+    },
+    {
+      "Eco": "C96",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, Borisenko defence",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 0.5,
+      "Games": [
+        302,
+        322
+      ]
+    },
+    {
+      "Eco": "C96",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, Keres (...Nd7) defence",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        237
+      ]
+    },
+    {
+      "Eco": "C97",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, Chigorin defence",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        305
+      ]
+    },
+    {
+      "Eco": "C99",
+      "Opening": "Ruy Lopez",
+      "Variation": "closed, Chigorin, 12...c5d4",
+      "Wins": 4,
+      "Draws": 3,
+      "Loses": 1,
+      "NGames": 8,
+      "NPoints": 5.5,
+      "Games": [
+        107,
+        108,
+        112,
+        138,
+        171,
+        173,
+        186,
+        197
+      ]
+    },
+    {
+      "Eco": "D01",
+      "Opening": "Richter-Veresov attack",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        147,
+        451
+      ]
+    },
+    {
+      "Eco": "D03",
+      "Opening": "Torre attack (Tartakower variation)",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        2
+      ]
+    },
+    {
+      "Eco": "D04",
+      "Opening": "Queen's pawn game",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        406
+      ]
+    },
+    {
+      "Eco": "D11",
+      "Opening": "QGD Slav",
+      "Variation": "3.Nf3",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 2,
+      "NPoints": 1.5,
+      "Games": [
+        139,
+        413
+      ]
+    },
+    {
+      "Eco": "D25",
+      "Opening": "QGA, Smyslov variation",
+      "Variation": "",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        283
+      ]
+    },
+    {
+      "Eco": "D31",
+      "Opening": "QGD",
+      "Variation": "semi-Slav, Noteboom variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        236
+      ]
+    },
+    {
+      "Eco": "D31",
+      "Opening": "QGD",
+      "Variation": "semi-Slav, Marshall gambit",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        248
+      ]
+    },
+    {
+      "Eco": "D31",
+      "Opening": "QGD",
+      "Variation": "semi-Slav",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        259
+      ]
+    },
+    {
+      "Eco": "D37",
+      "Opening": "QGD",
+      "Variation": "4.Nf3",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        352
+      ]
+    },
+    {
+      "Eco": "D42",
+      "Opening": "QGD",
+      "Variation": "Semi-Tarrasch, 7.Bd3",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 2,
+      "NGames": 2,
+      "NPoints": 0.0,
+      "Games": [
+        123,
+        454
+      ]
+    },
+    {
+      "Eco": "D47",
+      "Opening": "QGD semi-Slav",
+      "Variation": "Meran variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        291
+      ]
+    },
+    {
+      "Eco": "D57",
+      "Opening": "QGD",
+      "Variation": "Lasker defence, Bernstein variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        323
+      ]
+    },
+    {
+      "Eco": "D57",
+      "Opening": "QGD",
+      "Variation": "Lasker defence, main line",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        425
+      ]
+    },
+    {
+      "Eco": "D59",
+      "Opening": "QGD",
+      "Variation": "Tartakower variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        395
+      ]
+    },
+    {
+      "Eco": "D81",
+      "Opening": "Gruenfeld",
+      "Variation": "Russian variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        32
+      ]
+    },
+    {
+      "Eco": "D94",
+      "Opening": "Gruenfeld",
+      "Variation": "Opovcensky variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        149
+      ]
+    },
+    {
+      "Eco": "D95",
+      "Opening": "Gruenfeld",
+      "Variation": "Botvinnik variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        29
+      ]
+    },
+    {
+      "Eco": "D97",
+      "Opening": "Gruenfeld",
+      "Variation": "Russian, Byrne (Simagin) variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        430
+      ]
+    },
+    {
+      "Eco": "E60",
+      "Opening": "King's Indian, 3.Nf3",
+      "Variation": "",
+      "Wins": 1,
+      "Draws": 2,
+      "Loses": 0,
+      "NGames": 3,
+      "NPoints": 2.0,
+      "Games": [
+        182,
+        227,
+        360
+      ]
+    },
+    {
+      "Eco": "E62",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto, Kavalek (Bronstein) variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        368,
+        428
+      ]
+    },
+    {
+      "Eco": "E62",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto, Uhlmann (Szabo) variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        472
+      ]
+    },
+    {
+      "Eco": "E65",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto, Yugoslav, 7.O-O",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        207
+      ]
+    },
+    {
+      "Eco": "E67",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto, classical variation",
+      "Wins": 1,
+      "Draws": 2,
+      "Loses": 1,
+      "NGames": 4,
+      "NPoints": 2.0,
+      "Games": [
+        71,
+        141,
+        404,
+        467
+      ]
+    },
+    {
+      "Eco": "E68",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto, classical variation, 8.e4",
+      "Wins": 3,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 5,
+      "NPoints": 3.5,
+      "Games": [
+        40,
+        90,
+        124,
+        143,
+        450
+      ]
+    },
+    {
+      "Eco": "E69",
+      "Opening": "King's Indian",
+      "Variation": "fianchetto, classical main line",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 4,
+      "NGames": 5,
+      "NPoints": 0.5,
+      "Games": [
+        213,
+        260,
+        287,
+        298,
+        449
+      ]
+    },
+    {
+      "Eco": "E71",
+      "Opening": "King's Indian",
+      "Variation": "Makagonov system (5.h3)",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        346
+      ]
+    },
+    {
+      "Eco": "E73",
+      "Opening": "King's Indian",
+      "Variation": "Semi-Averbakh system",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        101
+      ]
+    },
+    {
+      "Eco": "E74",
+      "Opening": "King's Indian",
+      "Variation": "Averbakh, 6...c5",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        156
+      ]
+    },
+    {
+      "Eco": "E75",
+      "Opening": "King's Indian",
+      "Variation": "Averbakh, main line",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        209,
+        485
+      ]
+    },
+    {
+      "Eco": "E76",
+      "Opening": "King's Indian",
+      "Variation": "Four pawns attack, dynamic line",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        120
+      ]
+    },
+    {
+      "Eco": "E80",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        174,
+        181
+      ]
+    },
+    {
+      "Eco": "E81",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch, 5...O-O",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 3,
+      "NPoints": 1.5,
+      "Games": [
+        154,
+        172,
+        228
+      ]
+    },
+    {
+      "Eco": "E82",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch, double fianchetto variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 1.0,
+      "Games": [
+        289,
+        375
+      ]
+    },
+    {
+      "Eco": "E83",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch, Panno formation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        350
+      ]
+    },
+    {
+      "Eco": "E83",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch, 6...Nc6",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        372
+      ]
+    },
+    {
+      "Eco": "E84",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch, Panno main line",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 2,
+      "NPoints": 2.0,
+      "Games": [
+        315,
+        365
+      ]
+    },
+    {
+      "Eco": "E88",
+      "Opening": "King's Indian",
+      "Variation": "Saemisch, orthodox, 7.d5 c6",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        49
+      ]
+    },
+    {
+      "Eco": "E90",
+      "Opening": "King's Indian",
+      "Variation": "Zinnowitz variation",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 2,
+      "NPoints": 2.0,
+      "Games": [
+        331,
+        370
+      ]
+    },
+    {
+      "Eco": "E91",
+      "Opening": "King's Indian",
+      "Variation": "6.Be2",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        20
+      ]
+    },
+    {
+      "Eco": "E92",
+      "Opening": "King's Indian",
+      "Variation": "Andersson variation",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 0.5,
+      "Games": [
+        97
+      ]
+    },
+    {
+      "Eco": "E93",
+      "Opening": "King's Indian",
+      "Variation": "Petrosian system, main line",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 3,
+      "NPoints": 1.5,
+      "Games": [
+        118,
+        330,
+        420
+      ]
+    },
+    {
+      "Eco": "E94",
+      "Opening": "King's Indian",
+      "Variation": "orthodox variation",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NGames": 1,
+      "NPoints": 0.0,
+      "Games": [
+        195
+      ]
+    },
+    {
+      "Eco": "E94",
+      "Opening": "King's Indian",
+      "Variation": "orthodox, Donner variation",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        478
+      ]
+    },
+    {
+      "Eco": "E95",
+      "Opening": "King's Indian",
+      "Variation": "orthodox, 7...Nbd7, 8.Re1",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NGames": 2,
+      "NPoints": 0.5,
+      "Games": [
+        214,
+        256
+      ]
+    },
+    {
+      "Eco": "E97",
+      "Opening": "King's Indian",
+      "Variation": "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NGames": 1,
+      "NPoints": 1.0,
+      "Games": [
+        354
+      ]
+    }
+  ]
+}
