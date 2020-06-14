@@ -90,3 +90,23 @@
 .loses {
     color: red;
 }
+
+.game-link {
+    display: inline-block;
+}
+
+.game-link-win {
+    border-color: green;
+    border-width: 1;
+    border-style: solid;
+    padding-left: 1;
+    padding-right: 1;
+}
+
+.game-link-loss {
+    border-color: red;
+    border-width: 1;
+    border-style: solid;
+    padding-left: 1;
+    padding-right: 1;
+}

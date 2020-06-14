@@ -57,7 +57,15 @@
                     $.each(item.Games, function (idx, item) {
                         if (idx > 0)
                             $cellC.append(', ');
-                        $cellC.append($('<a href="game.html?id=' + item + '">' + item.toString().padStart(3, '0') + '</a>'));
+
+                        var id = item.ID;
+                        var linkClass = '';
+                        if (item.Win)
+                            linkClass = 'game-link-win';
+                        else if (item.Loss)
+                            linkClass = 'game-link-loss';
+
+                        $cellC.append($('<div class="game-link ' + linkClass + '"><a href="game.html?id=' + id + '">' + id.toString().padStart(3, '0') + '</a></div>'));
                     });
 
                     $cell.append($cellC);
