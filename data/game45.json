@@ -974,6 +974,11 @@
             "29. Ba6xb5",
             "Nd7-f8"
           ]
+        },
+        {
+          "Plies": [
+            "30. Be3-c1"
+          ]
         }
       ]
     },
@@ -1666,6 +1671,11 @@
             "19. Nf3-e5",
             "Qa2-d5"
           ]
+        },
+        {
+          "Plies": [
+            "20. Qd3-e3"
+          ]
         }
       ]
     },
@@ -2099,6 +2109,11 @@
             "54. Qf5-f8+",
             "Ke7-e6"
           ]
+        },
+        {
+          "Plies": [
+            "55. Qf8-c8+"
+          ]
         }
       ]
     },
@@ -2396,6 +2411,11 @@
           "Plies": [
             "36. Rh1xh6",
             "Kg7xh6"
+          ]
+        },
+        {
+          "Plies": [
+            "37. Qd5-f7"
           ]
         }
       ]
@@ -2990,6 +3010,20 @@
     {
       "Type": "position",
       "Position": "5rk1/6b1/7p/3PpNp1/4np2/7P/3N1PP1/2R3K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Nf5-e7+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "5rk1/4N1b1/7p/3Pp1p1/4np2/7P/3N1PP1/2R3K1"
     },
     {
       "Type": "result",

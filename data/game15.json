@@ -317,6 +317,20 @@
       "Position": "7r/p4R2/1p4nk/3qP3/P1pr4/6PB/2Q4K/5R2"
     },
     {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Qc2xg6+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "7r/p4R2/1p4Qk/3qP3/P1pr4/6PB/7K/5R2"
+    },
+    {
       "Type": "result",
       "Result": "1-0"
     }
@@ -657,6 +671,11 @@
           "Plies": [
             "43. c5xb6",
             "a5xb4"
+          ]
+        },
+        {
+          "Plies": [
+            "44. b6-b7"
           ]
         }
       ]
@@ -1025,6 +1044,20 @@
     {
       "Type": "position",
       "Position": "4k3/8/R7/1p1Bp3/1P2P3/1KP5/P6r/2b5"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "46. Bd5-c6+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "4k3/8/R1B5/1p2p3/1P2P3/1KP5/P6r/2b5"
     },
     {
       "Type": "result",
@@ -1560,6 +1593,11 @@
           "Plies": [
             "39. a5-a6",
             "Qf6-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "40. Bd5-b7"
           ]
         }
       ]

@@ -207,6 +207,11 @@
             "26. b2-b3+",
             "Kc4-d4"
           ]
+        },
+        {
+          "Plies": [
+            "27. Rb6-b4#"
+          ]
         }
       ]
     },
@@ -535,6 +540,20 @@
     {
       "Type": "position",
       "Position": "8/3k4/6r1/1P2Rp2/5P2/4b1P1/6K1/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Re5xe3"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/3k4/6r1/1P3p2/5P2/4R1P1/6K1/8"
     },
     {
       "Type": "result",
@@ -2458,6 +2477,11 @@
             "56. Rc4-b4",
             "Kd7-c7"
           ]
+        },
+        {
+          "Plies": [
+            "57. Rb4-c4+"
+          ]
         }
       ]
     },
@@ -3258,6 +3282,20 @@
     {
       "Type": "position",
       "Position": "1r5k/2R3bq/4Q3/p2p4/P2P4/1rN1P1P1/5P2/6K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "46. Rc7-c8+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1rR4k/6bq/4Q3/p2p4/P2P4/1rN1P1P1/5P2/6K1"
     },
     {
       "Type": "result",

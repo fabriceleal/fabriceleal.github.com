@@ -1383,6 +1383,20 @@
       "Position": "4R3/1b1q4/5ppk/p6n/Npp4Q/5P2/PP4PP/7K"
     },
     {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Qh4-e1"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "4R3/1b1q4/5ppk/p6n/Npp5/5P2/PP4PP/4Q2K"
+    },
+    {
       "Type": "result",
       "Result": "1/2-1/2"
     }
@@ -2519,6 +2533,11 @@
             "39. Kg1-h2",
             "Bd3-b1"
           ]
+        },
+        {
+          "Plies": [
+            "40. Rd6-h6"
+          ]
         }
       ]
     },
@@ -2769,6 +2788,20 @@
     {
       "Type": "position",
       "Position": "3r1k2/p2PR2p/1p6/1PpQ1q2/3n4/3N4/P5PP/6K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Qd5-d6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "3r1k2/p2PR2p/1p1Q4/1Pp2q2/3n4/3N4/P5PP/6K1"
     },
     {
       "Type": "result",

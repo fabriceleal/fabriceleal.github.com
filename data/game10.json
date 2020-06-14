@@ -839,6 +839,11 @@
             "39. Qh3-c8+",
             "Ng6-f8"
           ]
+        },
+        {
+          "Plies": [
+            "40. Ne3-d5"
+          ]
         }
       ]
     },
@@ -2014,6 +2019,11 @@
           "Plies": [
             "33. Ne7-f5+",
             "Kh6-h7"
+          ]
+        },
+        {
+          "Plies": [
+            "34. f6-f7"
           ]
         }
       ]
@@ -3813,6 +3823,20 @@
     {
       "Type": "position",
       "Position": "8/6kp/1R4p1/6n1/1P1K4/3B4/r5PP/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "56. h2-h4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/6kp/1R4p1/6n1/1P1K3P/3B4/r5P1/8"
     },
     {
       "Type": "result",

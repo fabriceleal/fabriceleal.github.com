@@ -246,6 +246,11 @@
             "31. Bb3xe6+",
             "Kg8-f8"
           ]
+        },
+        {
+          "Plies": [
+            "32. Bc3xg7+"
+          ]
         }
       ]
     },
@@ -537,6 +542,20 @@
       "Position": "8/1p2k2p/p5p1/2p5/8/PBN3Pb/1P5P/6K1"
     },
     {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. a3-a4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/1p2k2p/p5p1/2p5/P7/1BN3Pb/1P5P/6K1"
+    },
+    {
       "Type": "result",
       "Result": "1-0"
     }
@@ -779,6 +798,20 @@
     {
       "Type": "position",
       "Position": "2k1rn2/1pp3p1/p3N3/5P1p/7P/2P1R1P1/P2r2K1/R7"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Kg2-g1"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2k1rn2/1pp3p1/p3N3/5P1p/7P/2P1R1P1/P2r4/R5K1"
     },
     {
       "Type": "result",
@@ -1037,6 +1070,11 @@
           "Plies": [
             "32. Bg2xe4",
             "Bd7xh3"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Qb3-f3"
           ]
         }
       ]
@@ -1386,6 +1424,11 @@
           "Plies": [
             "43. Ra8xa7",
             "Bd7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "44. Bg2xc6"
           ]
         }
       ]
@@ -1742,6 +1785,11 @@
             "44. Bg2-e4+",
             "Kh7-h8"
           ]
+        },
+        {
+          "Plies": [
+            "45. Qg5-h6+"
+          ]
         }
       ]
     },
@@ -2070,6 +2118,20 @@
     {
       "Type": "position",
       "Position": "2q4k/3r1p2/p2B1n1p/1pp5/6Q1/1P2R3/1PP2PP1/6K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Bd6-e5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2q4k/3r1p2/p4n1p/1pp1B3/6Q1/1P2R3/1PP2PP1/6K1"
     },
     {
       "Type": "result",
@@ -2567,6 +2629,11 @@
             "28. Rc5-a5",
             "Kd8-c7"
           ]
+        },
+        {
+          "Plies": [
+            "29. Nc3-d5+"
+          ]
         }
       ]
     },
@@ -2817,6 +2884,20 @@
     {
       "Type": "position",
       "Position": "6k1/3bqpp1/2p2n2/p1Np1P1p/3Q4/P7/1PP1B1PP/5K2"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Be2-d3"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "6k1/3bqpp1/2p2n2/p1Np1P1p/3Q4/P2B4/1PP3PP/5K2"
     },
     {
       "Type": "result",

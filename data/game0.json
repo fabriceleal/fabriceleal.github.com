@@ -615,6 +615,11 @@
             "13. Qe2-d2",
             "Qc3xa1"
           ]
+        },
+        {
+          "Plies": [
+            "14. Bd3-b1"
+          ]
         }
       ]
     },
@@ -867,6 +872,20 @@
       "Position": "R4n1r/2p2k2/5p2/3p3p/1n1P3P/5B2/PPP2PP1/2K5"
     },
     {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. a2-a3"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "R4n1r/2p2k2/5p2/3p3p/1n1P3P/P4B2/1PP2PP1/2K5"
+    },
+    {
       "Type": "result",
       "Result": "1-0"
     }
@@ -979,6 +998,11 @@
           "Plies": [
             "14. Bh6-e3",
             "Qc5-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Nf5-h6+"
           ]
         }
       ]
@@ -1281,6 +1305,20 @@
       "Position": "r1b2rk1/pp2bppp/3ppn2/q5B1/3QP3/2N3P1/PPP2PBP/R4RK1"
     },
     {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Qd4-d2"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1b2rk1/pp2bppp/3ppn2/q5B1/4P3/2N3P1/PPPQ1PBP/R4RK1"
+    },
+    {
       "Type": "result",
       "Result": "1/2-1/2"
     }
@@ -1523,6 +1561,20 @@
     {
       "Type": "position",
       "Position": "2r5/r4kpp/1P2p3/2b1Pp2/2p2P2/2P1B3/4K1PP/2R5"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. b6xa7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r5/P4kpp/4p3/2b1Pp2/2p2P2/2P1B3/4K1PP/2R5"
     },
     {
       "Type": "result",
