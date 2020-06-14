@@ -1,0 +1,92 @@
+﻿.board-container {
+    padding: 0;
+    margin: 0;
+}
+
+.board {
+    max-width: 400px;
+    width: 80%;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.square {
+    padding: 1px;
+    width: 12.5%;
+}
+
+.dark-square {
+    background-color: #8b4513;
+}
+
+.light-square {
+    background-color: #cd853f;
+}
+
+.piece-container {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.wk {
+    background-image: url(/svg/wk.svg)
+}
+
+.wq {
+    background-image: url(/svg/wq.svg)
+}
+
+.wr {
+    background-image: url(/svg/wr.svg)
+}
+
+.wb {
+    background-image: url(/svg/wb.svg)
+}
+
+.wn {
+    background-image: url(/svg/wn.svg)
+}
+
+.wp {
+    background-image: url(/svg/wp.svg)
+}
+
+.bk {
+    background-image: url(/svg/bk.svg)
+}
+
+.bq {
+    background-image: url(/svg/bq.svg)
+}
+
+.br {
+    background-image: url(/svg/br.svg)
+}
+
+.bb {
+    background-image: url(/svg/bb.svg)
+}
+
+.bn {
+    background-image: url(/svg/bn.svg)
+}
+
+.bp {
+    background-image: url(/svg/bp.svg)
+}
+
+.wins {
+    color: green;
+}
+
+.loses {
+    color: red;
+}

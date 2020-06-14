@@ -1,0 +1,2819 @@
+{
+  "Player": "Nezhmetdinov, Rashid",
+  "Subtitle": "by Opponent",
+  "Data": [
+    {
+      "Opponent": "Furman, Semen Abramovich",
+      "Wins": 2,
+      "Draws": 3,
+      "Loses": 7,
+      "NPoints": 3.5,
+      "NGames": 12.0,
+      "Games": [
+        11,
+        50,
+        62,
+        78,
+        99,
+        111,
+        123,
+        195,
+        219,
+        236,
+        298,
+        468
+      ]
+    },
+    {
+      "Opponent": "Kholmov, Ratmir D",
+      "Wins": 1,
+      "Draws": 6,
+      "Loses": 3,
+      "NPoints": 4.0,
+      "NGames": 10.0,
+      "Games": [
+        14,
+        35,
+        97,
+        125,
+        164,
+        207,
+        259,
+        283,
+        345,
+        409
+      ]
+    },
+    {
+      "Opponent": "Polugaevsky, Lev",
+      "Wins": 2,
+      "Draws": 2,
+      "Loses": 4,
+      "NPoints": 3.0,
+      "NGames": 8.0,
+      "Games": [
+        71,
+        115,
+        245,
+        286,
+        329,
+        339,
+        347,
+        482
+      ]
+    },
+    {
+      "Opponent": "Antoshin, Vladimir S",
+      "Wins": 5,
+      "Draws": 0,
+      "Loses": 5,
+      "NPoints": 5.0,
+      "NGames": 10.0,
+      "Games": [
+        82,
+        154,
+        215,
+        315,
+        318,
+        324,
+        410,
+        418,
+        430,
+        454
+      ]
+    },
+    {
+      "Opponent": "Taimanov, Mark E",
+      "Wins": 0,
+      "Draws": 4,
+      "Loses": 3,
+      "NPoints": 2.0,
+      "NGames": 7.0,
+      "Games": [
+        60,
+        139,
+        214,
+        284,
+        308,
+        334,
+        352
+      ]
+    },
+    {
+      "Opponent": "Ilivitzki, Georgi A",
+      "Wins": 3,
+      "Draws": 5,
+      "Loses": 2,
+      "NPoints": 5.5,
+      "NGames": 10.0,
+      "Games": [
+        8,
+        29,
+        57,
+        101,
+        124,
+        174,
+        268,
+        325,
+        376,
+        428
+      ]
+    },
+    {
+      "Opponent": "Geller, Efim P",
+      "Wins": 1,
+      "Draws": 3,
+      "Loses": 3,
+      "NPoints": 2.5,
+      "NGames": 7.0,
+      "Games": [
+        36,
+        117,
+        130,
+        186,
+        281,
+        287,
+        484
+      ]
+    },
+    {
+      "Opponent": "Boleslavsky, Isaak",
+      "Wins": 1,
+      "Draws": 5,
+      "Loses": 2,
+      "NPoints": 3.5,
+      "NGames": 8.0,
+      "Games": [
+        46,
+        113,
+        162,
+        189,
+        220,
+        258,
+        276,
+        304
+      ]
+    },
+    {
+      "Opponent": "Kortschnoj, Viktor",
+      "Wins": 0,
+      "Draws": 3,
+      "Loses": 3,
+      "NPoints": 1.5,
+      "NGames": 6.0,
+      "Games": [
+        83,
+        131,
+        213,
+        240,
+        260,
+        282
+      ]
+    },
+    {
+      "Opponent": "Krogius, Nikolai V",
+      "Wins": 3,
+      "Draws": 5,
+      "Loses": 2,
+      "NPoints": 5.5,
+      "NGames": 10.0,
+      "Games": [
+        69,
+        103,
+        238,
+        253,
+        292,
+        306,
+        323,
+        394,
+        404,
+        429
+      ]
+    },
+    {
+      "Opponent": "Petrosian, Tigran V",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 3,
+      "NPoints": 1.0,
+      "NGames": 5.0,
+      "Games": [
+        38,
+        134,
+        203,
+        221,
+        291
+      ]
+    },
+    {
+      "Opponent": "Vladimirov, Boris T",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 4,
+      "NPoints": 0.0,
+      "NGames": 4.0,
+      "Games": [
+        120,
+        234,
+        310,
+        353
+      ]
+    },
+    {
+      "Opponent": "Kotkov, Yuri M",
+      "Wins": 6,
+      "Draws": 1,
+      "Loses": 3,
+      "NPoints": 6.5,
+      "NGames": 10.0,
+      "Games": [
+        175,
+        229,
+        237,
+        267,
+        322,
+        366,
+        377,
+        393,
+        433,
+        446
+      ]
+    },
+    {
+      "Opponent": "Spassky, Boris V",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 3,
+      "NPoints": 2.5,
+      "NGames": 6.0,
+      "Games": [
+        217,
+        279,
+        299,
+        350,
+        403,
+        423
+      ]
+    },
+    {
+      "Opponent": "Lein, Anatoly",
+      "Wins": 5,
+      "Draws": 1,
+      "Loses": 3,
+      "NPoints": 5.5,
+      "NGames": 9.0,
+      "Games": [
+        231,
+        317,
+        320,
+        326,
+        348,
+        378,
+        395,
+        413,
+        424
+      ]
+    },
+    {
+      "Opponent": "Mikenas, Vladas",
+      "Wins": 5,
+      "Draws": 2,
+      "Loses": 2,
+      "NPoints": 6.0,
+      "NGames": 9.0,
+      "Games": [
+        15,
+        16,
+        18,
+        19,
+        17,
+        20,
+        191,
+        216,
+        461
+      ]
+    },
+    {
+      "Opponent": "Lutikov, Anatoly S",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 3,
+      "NPoints": 0.0,
+      "NGames": 3.0,
+      "Games": [
+        67,
+        104,
+        289
+      ]
+    },
+    {
+      "Opponent": "Khasin, Abram",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 2,
+      "NPoints": 1.0,
+      "NGames": 4.0,
+      "Games": [
+        193,
+        218,
+        351,
+        380
+      ]
+    },
+    {
+      "Opponent": "Borisenko, Georgy K",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 2,
+      "NPoints": 2.5,
+      "NGames": 5.0,
+      "Games": [
+        128,
+        156,
+        226,
+        248,
+        392
+      ]
+    },
+    {
+      "Opponent": "Keres, Paul",
+      "Wins": 0,
+      "Draws": 3,
+      "Loses": 1,
+      "NPoints": 1.5,
+      "NGames": 4.0,
+      "Games": [
+        224,
+        261,
+        288,
+        343
+      ]
+    },
+    {
+      "Opponent": "Averbakh, Yuri L",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 2,
+      "NPoints": 0.5,
+      "NGames": 3.0,
+      "Games": [
+        127,
+        293,
+        358
+      ]
+    },
+    {
+      "Opponent": "Dubinin, Peter Vasilievich",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 3.0,
+      "Games": [
+        26,
+        44,
+        227
+      ]
+    },
+    {
+      "Opponent": "Makogonov, Vladimir Andreevich",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 2,
+      "NPoints": 0.0,
+      "NGames": 2.0,
+      "Games": [
+        32,
+        58
+      ]
+    },
+    {
+      "Opponent": "Chistiakov, Alexander Nikolaevi",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 2,
+      "NPoints": 2.0,
+      "NGames": 4.0,
+      "Games": [
+        31,
+        72,
+        163,
+        199
+      ]
+    },
+    {
+      "Opponent": "Bannik, Anatoly",
+      "Wins": 1,
+      "Draws": 2,
+      "Loses": 1,
+      "NPoints": 2.0,
+      "NGames": 4.0,
+      "Games": [
+        121,
+        155,
+        187,
+        212
+      ]
+    },
+    {
+      "Opponent": "Vasiukov, Evgeni",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 2,
+      "NPoints": 2.0,
+      "NGames": 4.0,
+      "Games": [
+        171,
+        200,
+        296,
+        359
+      ]
+    },
+    {
+      "Opponent": "Gurgenidze, Bukhuti",
+      "Wins": 3,
+      "Draws": 0,
+      "Loses": 2,
+      "NPoints": 3.0,
+      "NGames": 5.0,
+      "Games": [
+        205,
+        251,
+        277,
+        297,
+        349
+      ]
+    },
+    {
+      "Opponent": "Shianovsky, Vladislav I",
+      "Wins": 1,
+      "Draws": 2,
+      "Loses": 1,
+      "NPoints": 2.0,
+      "NGames": 4.0,
+      "Games": [
+        204,
+        301,
+        302,
+        357
+      ]
+    },
+    {
+      "Opponent": "Belov, Lev A",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 2,
+      "NPoints": 2.0,
+      "NGames": 4.0,
+      "Games": [
+        316,
+        319,
+        321,
+        444
+      ]
+    },
+    {
+      "Opponent": "Damjanovic, Mato",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 2,
+      "NPoints": 0.0,
+      "NGames": 2.0,
+      "Games": [
+        407,
+        426
+      ]
+    },
+    {
+      "Opponent": "Tarasov, Vitaly Georgievich",
+      "Wins": 1,
+      "Draws": 4,
+      "Loses": 0,
+      "NPoints": 3.0,
+      "NGames": 5.0,
+      "Games": [
+        168,
+        206,
+        309,
+        328,
+        337
+      ]
+    },
+    {
+      "Opponent": "Zagorovsky, Vladimir Pavlovich",
+      "Wins": 2,
+      "Draws": 3,
+      "Loses": 0,
+      "NPoints": 3.5,
+      "NGames": 5.0,
+      "Games": [
+        54,
+        243,
+        271,
+        383,
+        455
+      ]
+    },
+    {
+      "Opponent": "Klaman, Konstantin",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 1.5,
+      "NGames": 3.0,
+      "Games": [
+        28,
+        61,
+        223
+      ]
+    },
+    {
+      "Opponent": "Yudovich, Mikhail M",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 1.5,
+      "NGames": 3.0,
+      "Games": [
+        112,
+        330,
+        390
+      ]
+    },
+    {
+      "Opponent": "Simagin, Vladimir",
+      "Wins": 0,
+      "Draws": 3,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 3.0,
+      "Games": [
+        118,
+        173,
+        415
+      ]
+    },
+    {
+      "Opponent": "Suetin, Alexey S",
+      "Wins": 3,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 3.5,
+      "NGames": 5.0,
+      "Games": [
+        10,
+        81,
+        138,
+        170,
+        416
+      ]
+    },
+    {
+      "Opponent": "Bastrikov, Georgy Vladimirovic",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 2.5,
+      "NGames": 4.0,
+      "Games": [
+        188,
+        239,
+        266,
+        440
+      ]
+    },
+    {
+      "Opponent": "Aronson, Lev Abramovich",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 0.5,
+      "NGames": 2.0,
+      "Games": [
+        161,
+        209
+      ]
+    },
+    {
+      "Opponent": "Bronstein, David I",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 1.5,
+      "NGames": 3.0,
+      "Games": [
+        211,
+        295,
+        346
+      ]
+    },
+    {
+      "Opponent": "Unzicker, Wolfgang",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 0.5,
+      "NGames": 2.0,
+      "Games": [
+        421,
+        480
+      ]
+    },
+    {
+      "Opponent": "Ujtumen, Tudev",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 1.5,
+      "NGames": 3.0,
+      "Games": [
+        405,
+        432,
+        438
+      ]
+    },
+    {
+      "Opponent": "Lisitsin, Georgy",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 1,
+      "NPoints": 0.5,
+      "NGames": 2.0,
+      "Games": [
+        132,
+        176
+      ]
+    },
+    {
+      "Opponent": "Kasparian, Genrikh Moiseevich",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        34,
+        150
+      ]
+    },
+    {
+      "Opponent": "Estrin, Yacov",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        47,
+        59
+      ]
+    },
+    {
+      "Opponent": "Batigin",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        75
+      ]
+    },
+    {
+      "Opponent": "Pachman, Ludek",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        88
+      ]
+    },
+    {
+      "Opponent": "Zurakhov, Vladlen Y",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        108,
+        181
+      ]
+    },
+    {
+      "Opponent": "Novopashin, Arkady",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        109,
+        179
+      ]
+    },
+    {
+      "Opponent": "Eremin, Anatoly V",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        116
+      ]
+    },
+    {
+      "Opponent": "Pasman, Marks",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        143
+      ]
+    },
+    {
+      "Opponent": "Grechkin, Dmitry Makarovich",
+      "Wins": 3,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 3.0,
+      "NGames": 4.0,
+      "Games": [
+        22,
+        33,
+        102,
+        147
+      ]
+    },
+    {
+      "Opponent": "Stoliar, Efim Samoilovich",
+      "Wins": 4,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 4.0,
+      "NGames": 5.0,
+      "Games": [
+        180,
+        235,
+        222,
+        241,
+        269
+      ]
+    },
+    {
+      "Opponent": "Klavins, Janis",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        157
+      ]
+    },
+    {
+      "Opponent": "Nei, Iivo",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        160
+      ]
+    },
+    {
+      "Opponent": "Kolarov, Atanas S",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        182,
+        183
+      ]
+    },
+    {
+      "Opponent": "Sakharov, Yuri N",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 2.0,
+      "NGames": 3.0,
+      "Games": [
+        184,
+        185,
+        192
+      ]
+    },
+    {
+      "Opponent": "Nikolaevsky, Yuri V",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        197
+      ]
+    },
+    {
+      "Opponent": "Goldberg, Grigory Abramovich",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        201
+      ]
+    },
+    {
+      "Opponent": "Zilber, Israel",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        152,
+        256
+      ]
+    },
+    {
+      "Opponent": "Sergievsky, Vladimir D",
+      "Wins": 4,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 4.0,
+      "NGames": 5.0,
+      "Games": [
+        273,
+        379,
+        382,
+        441,
+        447
+      ]
+    },
+    {
+      "Opponent": "Gufeld, Eduard",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        294,
+        388
+      ]
+    },
+    {
+      "Opponent": "Arulaid, Alexander",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        303
+      ]
+    },
+    {
+      "Opponent": "Terentiev, Vitaly G",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        312
+      ]
+    },
+    {
+      "Opponent": "Padevsky, Nikola",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        313,
+        314
+      ]
+    },
+    {
+      "Opponent": "Ujtelky, Maximilian",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        333,
+        399
+      ]
+    },
+    {
+      "Opponent": "Ciric, Dragoljub M",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        338,
+        434
+      ]
+    },
+    {
+      "Opponent": "Smyslov, Vassily",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        344
+      ]
+    },
+    {
+      "Opponent": "Shamkovich, Leonid",
+      "Wins": 5,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 6.0,
+      "NGames": 7.0,
+      "Games": [
+        105,
+        135,
+        177,
+        167,
+        232,
+        354,
+        471
+      ]
+    },
+    {
+      "Opponent": "Ostrovsky, Alexander",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        371,
+        448
+      ]
+    },
+    {
+      "Opponent": "Lengyel, Levente",
+      "Wins": 3,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 3.0,
+      "NGames": 4.0,
+      "Games": [
+        367,
+        368,
+        369,
+        370
+      ]
+    },
+    {
+      "Opponent": "Shestoperov, Aleksej",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        327,
+        449
+      ]
+    },
+    {
+      "Opponent": "Zakharov, Igor N",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        451
+      ]
+    },
+    {
+      "Opponent": "Bergin, Dmitri",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        373,
+        442
+      ]
+    },
+    {
+      "Opponent": "Korelov, Alexander Pavlovich",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        472
+      ]
+    },
+    {
+      "Opponent": "Stein, Leonid",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        481
+      ]
+    },
+    {
+      "Opponent": "Tseshkovsky, Vitaly",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        483
+      ]
+    },
+    {
+      "Opponent": "Buslaev, Aleksander",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        24
+      ]
+    },
+    {
+      "Opponent": "Pogrebissky, Iosif",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        42
+      ]
+    },
+    {
+      "Opponent": "Soloviev, Vladimir A",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        51,
+        110
+      ]
+    },
+    {
+      "Opponent": "Skotorenko, Vasily",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        106
+      ]
+    },
+    {
+      "Opponent": "Gusev, Yuri S",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        114
+      ]
+    },
+    {
+      "Opponent": "Kotov, Alexander",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        194
+      ]
+    },
+    {
+      "Opponent": "Blagidze, Alexander",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        202
+      ]
+    },
+    {
+      "Opponent": "Tal, Mihail",
+      "Wins": 3,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 3.0,
+      "NGames": 4.0,
+      "Games": [
+        210,
+        278,
+        290,
+        355
+      ]
+    },
+    {
+      "Opponent": "Strekalovski, Viktor",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        242
+      ]
+    },
+    {
+      "Opponent": "Zhilin, Vitaly V",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 2.0,
+      "NGames": 3.0,
+      "Games": [
+        244,
+        255,
+        272
+      ]
+    },
+    {
+      "Opponent": "Katalymov, Boris N",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        265,
+        381
+      ]
+    },
+    {
+      "Opponent": "Toprover, Viktor G",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        270
+      ]
+    },
+    {
+      "Opponent": "Bondarevsky, Igor",
+      "Wins": 0,
+      "Draws": 2,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 2.0,
+      "Games": [
+        341,
+        412
+      ]
+    },
+    {
+      "Opponent": "Myagmarsuren, Lhamsuren",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        436
+      ]
+    },
+    {
+      "Opponent": "Zhidkov, Valery S",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        453
+      ]
+    },
+    {
+      "Opponent": "Lukin, Andrei M",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        460
+      ]
+    },
+    {
+      "Opponent": "Zaitsev, Igor A",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        462
+      ]
+    },
+    {
+      "Opponent": "Voloshin, V.",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        464
+      ]
+    },
+    {
+      "Opponent": "Astashin, Alexander",
+      "Wins": 0,
+      "Draws": 0,
+      "Loses": 1,
+      "NPoints": 0.0,
+      "NGames": 1.0,
+      "Games": [
+        466
+      ]
+    },
+    {
+      "Opponent": "Aronin, Lev Solomonovich",
+      "Wins": 3,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 3.5,
+      "NGames": 4.0,
+      "Games": [
+        7,
+        52,
+        68,
+        225
+      ]
+    },
+    {
+      "Opponent": "Ebralidze, Archil Silovanovich",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        43
+      ]
+    },
+    {
+      "Opponent": "Ratner, Boris",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        49
+      ]
+    },
+    {
+      "Opponent": "Lilienthal, Andor",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 2.5,
+      "NGames": 3.0,
+      "Games": [
+        63,
+        126,
+        387
+      ]
+    },
+    {
+      "Opponent": "O'Kelly de Galway, Alberic",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        90
+      ]
+    },
+    {
+      "Opponent": "Aratovsky, Nikolay Konstantino",
+      "Wins": 2,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 2.5,
+      "NGames": 3.0,
+      "Games": [
+        27,
+        56,
+        100
+      ]
+    },
+    {
+      "Opponent": "Shakhov, Mikhail",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        107,
+        274
+      ]
+    },
+    {
+      "Opponent": "Flohr, Salo",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        122,
+        435
+      ]
+    },
+    {
+      "Opponent": "Ragozin, Viacheslav",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        136
+      ]
+    },
+    {
+      "Opponent": "Sokolsky, Alexey",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        137,
+        196
+      ]
+    },
+    {
+      "Opponent": "Rovner, Dmitry Osipovich",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        141
+      ]
+    },
+    {
+      "Opponent": "Orlov",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        149
+      ]
+    },
+    {
+      "Opponent": "Zamikhovsky, Abram Davidovich",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        172
+      ]
+    },
+    {
+      "Opponent": "Shaposhnikov, Yury Nikolaevich",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        246
+      ]
+    },
+    {
+      "Opponent": "Botvinnik, Mikhail",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        280
+      ]
+    },
+    {
+      "Opponent": "Yukhtman, Jacob",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        285
+      ]
+    },
+    {
+      "Opponent": "Seleznev, Valentin",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        311
+      ]
+    },
+    {
+      "Opponent": "Drozd, Ryszard",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        340
+      ]
+    },
+    {
+      "Opponent": "Savon, Vladimir A",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        342,
+        463
+      ]
+    },
+    {
+      "Opponent": "Adamski, Jan",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        385
+      ]
+    },
+    {
+      "Opponent": "Gheorghiu, Florin",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        400
+      ]
+    },
+    {
+      "Opponent": "Matulovic, Milan",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        402
+      ]
+    },
+    {
+      "Opponent": "Barcza, Gedeon",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        411
+      ]
+    },
+    {
+      "Opponent": "Zaitsev, Alexander N",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        397,
+        425
+      ]
+    },
+    {
+      "Opponent": "Moehring, Guenther",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        457
+      ]
+    },
+    {
+      "Opponent": "Levenfish, Grigory",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        64
+      ]
+    },
+    {
+      "Opponent": "Koblencs, Aleksandrs",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        76
+      ]
+    },
+    {
+      "Opponent": "Sandor, Bela",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        89
+      ]
+    },
+    {
+      "Opponent": "Kluger, Gyula",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        94
+      ]
+    },
+    {
+      "Opponent": "Byvshev, Vasily Mikhailovich",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        129
+      ]
+    },
+    {
+      "Opponent": "Shcherbakov, Vitaly Sergeevich",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        142,
+        384
+      ]
+    },
+    {
+      "Opponent": "Golovko, Nikolay Grigorievic",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        144
+      ]
+    },
+    {
+      "Opponent": "Bonch Osmolovsky, Mikhail",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        148,
+        190
+      ]
+    },
+    {
+      "Opponent": "Tolush, Alexander V",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        208
+      ]
+    },
+    {
+      "Opponent": "Gipslis, Aivars",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        361
+      ]
+    },
+    {
+      "Opponent": "Kopylov, Igor",
+      "Wins": 1,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 1.5,
+      "NGames": 2.0,
+      "Games": [
+        445,
+        452
+      ]
+    },
+    {
+      "Opponent": "Moisieev, Oleg L",
+      "Wins": 0,
+      "Draws": 1,
+      "Loses": 0,
+      "NPoints": 0.5,
+      "NGames": 1.0,
+      "Games": [
+        473
+      ]
+    },
+    {
+      "Opponent": "Samsonov",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        1
+      ]
+    },
+    {
+      "Opponent": "Korchmar, A.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        2
+      ]
+    },
+    {
+      "Opponent": "Kosolapov, N.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        3
+      ]
+    },
+    {
+      "Opponent": "Shishov, Mikhail Vasilievich",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        12
+      ]
+    },
+    {
+      "Opponent": "Veltmander, Iogannes",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        23
+      ]
+    },
+    {
+      "Opponent": "Shamaev, Leonid",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        25
+      ]
+    },
+    {
+      "Opponent": "Lubienski, Tadeusz",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        40
+      ]
+    },
+    {
+      "Opponent": "Zak, Vladimir Grigorievi",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        65
+      ]
+    },
+    {
+      "Opponent": "Borisenkov, N.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        66
+      ]
+    },
+    {
+      "Opponent": "Novotelnov, Nikolay Alexandrovi",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        39,
+        70
+      ]
+    },
+    {
+      "Opponent": "Zagoriansky, Evgeny",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        74
+      ]
+    },
+    {
+      "Opponent": "Balanel, Ion",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        84
+      ]
+    },
+    {
+      "Opponent": "Voiculescu, Paul",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        86
+      ]
+    },
+    {
+      "Opponent": "Ciocaltea, Victor",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        93,
+        459
+      ]
+    },
+    {
+      "Opponent": "Troianescu, Octavio",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        95
+      ]
+    },
+    {
+      "Opponent": "Uusi, Gunnar",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        119
+      ]
+    },
+    {
+      "Opponent": "Mukhitdinov, Mamadzhan",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        145
+      ]
+    },
+    {
+      "Opponent": "Khodzhaev, Azmitdin",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        153
+      ]
+    },
+    {
+      "Opponent": "Livshin, Iosif M",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        133,
+        158
+      ]
+    },
+    {
+      "Opponent": "Matskevich, Avshalom",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        151,
+        159
+      ]
+    },
+    {
+      "Opponent": "Gosin, M.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        228
+      ]
+    },
+    {
+      "Opponent": "Kopylov, Nikolai G",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        249,
+        375
+      ]
+    },
+    {
+      "Opponent": "Mnatsakanian, Eduard A",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        250
+      ]
+    },
+    {
+      "Opponent": "Zheliandinov, Viktor",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        275,
+        365
+      ]
+    },
+    {
+      "Opponent": "Nikitin, Aleksander S",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        300
+      ]
+    },
+    {
+      "Opponent": "Arseniev, Vladimir V",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        305
+      ]
+    },
+    {
+      "Opponent": "Estrada Degrandi, Walter",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        331
+      ]
+    },
+    {
+      "Opponent": "Khodos, German L",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        336,
+        465
+      ]
+    },
+    {
+      "Opponent": "Bagirov, Vladimir",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        356,
+        386
+      ]
+    },
+    {
+      "Opponent": "Kots, Yury Isakovich",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        252,
+        360
+      ]
+    },
+    {
+      "Opponent": "Kalinkin, Boris",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        364
+      ]
+    },
+    {
+      "Opponent": "Shipov, Boris",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        372
+      ]
+    },
+    {
+      "Opponent": "Pozarsky, B.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        374
+      ]
+    },
+    {
+      "Opponent": "Ruchkin, Y.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        398
+      ]
+    },
+    {
+      "Opponent": "Doroshkievich, Vladimir K",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        406
+      ]
+    },
+    {
+      "Opponent": "Garcia Gonzales, Guillermo",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        408
+      ]
+    },
+    {
+      "Opponent": "Heuer, Valter",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        417
+      ]
+    },
+    {
+      "Opponent": "Shatskes, Boris A",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        419
+      ]
+    },
+    {
+      "Opponent": "Chernikh, Alexander",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        420
+      ]
+    },
+    {
+      "Opponent": "Damsky, Yakov",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        439
+      ]
+    },
+    {
+      "Opponent": "Titenko, Vladimir F",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        450
+      ]
+    },
+    {
+      "Opponent": "Khromov, Vladimir V",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        443
+      ]
+    },
+    {
+      "Opponent": "Timofeev, Vladimir F",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        467,
+        475
+      ]
+    },
+    {
+      "Opponent": "Jakobsen, Ole",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        476
+      ]
+    },
+    {
+      "Opponent": "Langeweg, Kick",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        478
+      ]
+    },
+    {
+      "Opponent": "Bukhman, Eduard",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        485
+      ]
+    },
+    {
+      "Opponent": "Karasev, Vladimir I",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        486
+      ]
+    },
+    {
+      "Opponent": "Konstantinov, A.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        4
+      ]
+    },
+    {
+      "Opponent": "Pimenov, Sergey Ivanovich",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        5
+      ]
+    },
+    {
+      "Opponent": "Ermolin, P.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        6
+      ]
+    },
+    {
+      "Opponent": "Sedov",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        9
+      ]
+    },
+    {
+      "Opponent": "Ivashin, Alexey",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        13
+      ]
+    },
+    {
+      "Opponent": "Baskin, V.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        21
+      ]
+    },
+    {
+      "Opponent": "Vasiliev, Victor Andreevich",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        30,
+        178
+      ]
+    },
+    {
+      "Opponent": "Solmanis, Zigfrids",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        37
+      ]
+    },
+    {
+      "Opponent": "Aramanovich, I.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        41
+      ]
+    },
+    {
+      "Opponent": "Romanov, B.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        45
+      ]
+    },
+    {
+      "Opponent": "Kamyshov, Mikhail",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        53
+      ]
+    },
+    {
+      "Opponent": "Liublinsky, Victor Alexandrovic",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        48
+      ]
+    },
+    {
+      "Opponent": "Lusikal",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        55
+      ]
+    },
+    {
+      "Opponent": "Budo, Alexander S",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        73
+      ]
+    },
+    {
+      "Opponent": "Filip, Miroslav",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        85
+      ]
+    },
+    {
+      "Opponent": "Paoli, Enrico",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        87
+      ]
+    },
+    {
+      "Opponent": "Wade, Robert Graham",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        91
+      ]
+    },
+    {
+      "Opponent": "Szabo, Stefan",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        92
+      ]
+    },
+    {
+      "Opponent": "Sliwa, Bogdan",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        96
+      ]
+    },
+    {
+      "Opponent": "Stahlberg, Gideon",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        98
+      ]
+    },
+    {
+      "Opponent": "Zelinsky, Yuri",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        140
+      ]
+    },
+    {
+      "Opponent": "Vedenski, N.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        146
+      ]
+    },
+    {
+      "Opponent": "Makarov, Andrei",
+      "Wins": 2,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 2.0,
+      "NGames": 2.0,
+      "Games": [
+        165,
+        254
+      ]
+    },
+    {
+      "Opponent": "Romanovsky, Peter Arsenievich",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        166
+      ]
+    },
+    {
+      "Opponent": "Vasilchuk, Yury",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        169
+      ]
+    },
+    {
+      "Opponent": "Leibov, Y.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        230
+      ]
+    },
+    {
+      "Opponent": "Usov, A.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        233
+      ]
+    },
+    {
+      "Opponent": "Reshko, Aron G",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        198
+      ]
+    },
+    {
+      "Opponent": "Milev, Zdravko",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        257
+      ]
+    },
+    {
+      "Opponent": "Luik, Helmuth",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        247
+      ]
+    },
+    {
+      "Opponent": "Golyak, Isay G",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        262
+      ]
+    },
+    {
+      "Opponent": "Govbinder, Mikhail Y",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        263
+      ]
+    },
+    {
+      "Opponent": "Grushevsky, Alexander V",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        264
+      ]
+    },
+    {
+      "Opponent": "Gusakov, Vitaly S",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        307
+      ]
+    },
+    {
+      "Opponent": "Bobekov, Radko",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        332
+      ]
+    },
+    {
+      "Opponent": "Liebert, Heinz",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        335
+      ]
+    },
+    {
+      "Opponent": "Tringov, Georgi P",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        362
+      ]
+    },
+    {
+      "Opponent": "Chernikov, Oleg L",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        363
+      ]
+    },
+    {
+      "Opponent": "Rabar, F.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        389
+      ]
+    },
+    {
+      "Opponent": "Elizarov, A.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        391
+      ]
+    },
+    {
+      "Opponent": "Tatarintsev, VA.",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        396
+      ]
+    },
+    {
+      "Opponent": "Forintos, Gyozo V",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        401
+      ]
+    },
+    {
+      "Opponent": "Cherepkov, Alexander V",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        414
+      ]
+    },
+    {
+      "Opponent": "Malich, Burkhard",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        422
+      ]
+    },
+    {
+      "Opponent": "Jansa, Vlastimil",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        427
+      ]
+    },
+    {
+      "Opponent": "Garcia Martinez, Silvino",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        431
+      ]
+    },
+    {
+      "Opponent": "Zorigt, Damdzinhav",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        437
+      ]
+    },
+    {
+      "Opponent": "Zakharov, Alexander V",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        456
+      ]
+    },
+    {
+      "Opponent": "Radulov, Ivan",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        458
+      ]
+    },
+    {
+      "Opponent": "Pavlenko, Oleg",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        469
+      ]
+    },
+    {
+      "Opponent": "Vesselovsky, Serguei",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        470
+      ]
+    },
+    {
+      "Opponent": "Nikitin, Vitaly",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        474
+      ]
+    },
+    {
+      "Opponent": "Kozma, Julius",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        477
+      ]
+    },
+    {
+      "Opponent": "Hennings, Artur",
+      "Wins": 1,
+      "Draws": 0,
+      "Loses": 0,
+      "NPoints": 1.0,
+      "NGames": 1.0,
+      "Games": [
+        479
+      ]
+    }
+  ]
+}
