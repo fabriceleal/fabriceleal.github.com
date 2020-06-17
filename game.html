@@ -26,10 +26,10 @@
 
 			// decide which json to load from game id (in url)
 			var id = (new window.URLSearchParams(window.location.search)).get('id');
+            var collection = (new window.URLSearchParams(window.location.search)).get('collection');
 			var batch = Math.trunc(id / 10);
 
-
-			$.ajax("/data/game" + batch + ".json").done(function(data) {
+            $.ajax("/data_" + collection + "/game" + batch + ".json").done(function(data) {
 				var $content = $('#content');
 				$content.html("");
 

@@ -1,0 +1,3030 @@
+{
+  "1580": [
+    {
+      "Type": "info",
+      "Info": "JUG-URS</br>?</br>Tal, Mihail - Velimirovic, Dragoljub</br>1979.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. c2-c4",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "2. b2-b3",
+            "Nb8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. Bc1-b2",
+            "e7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "4. g2-g3",
+            "d7-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Bf1-g2",
+            "Bc8-e6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r2qkbnr/pp3ppp/2npb3/2p1p3/2P5/1P4P1/PB1PPPBP/RN1QK1NR"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. Nb1-c3",
+            "Qd8-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "7. Ng1-f3",
+            "Be6-h3"
+          ]
+        },
+        {
+          "Plies": [
+            "8. Bg2xh3",
+            "Qd7xh3"
+          ]
+        },
+        {
+          "Plies": [
+            "9. Nc3-d5",
+            "Qh3-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "10. e2-e3",
+            "Nc6-e7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r3kbnr/pp1qnppp/3p4/2pNp3/2P5/1P2PNP1/PB1P1P1P/R2QK2R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Nd5-c3",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "12. O-O",
+            "e5-e4"
+          ]
+        },
+        {
+          "Plies": [
+            "13. Nf3-g5",
+            "d6-d5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. c4xd5",
+            "Qd7-f5"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Ng5xf7",
+            "Ke8xf7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r4b1r/pp2nkpp/5n2/2pP1q2/4p3/1PN1P1P1/PB1P1P1P/R2Q1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. f2-f3",
+            "Ne7xd5"
+          ]
+        },
+        {
+          "Plies": [
+            "17. f3xe4",
+            "Nd5xc3"
+          ]
+        },
+        {
+          "Plies": [
+            "18. Bb2xc3",
+            "Qf5xe4"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Qd1-h5+",
+            "Kf7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Qh5-h3+",
+            "Ke6-d6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r4b1r/pp4pp/3k1n2/2p5/4q3/1PB1P1PQ/P2P3P/R4RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. b3-b4",
+            "Kd6-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Ra1-c1",
+            "Ra8-c8"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Rf1-f5",
+            "Qe4-g4"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Bc3-e5+",
+            "Kc7-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Qh3-f1",
+            "Qg4-e4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r2b1r/pp1k2pp/5n2/2p1BR2/1P2q3/4P1P1/P2P3P/2R2QK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Rc1-c4",
+            "Qe4-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Qf1-h3",
+            "Qc6-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Be5xf6",
+            "g7xf6"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Rc4-e4",
+            "Qe6xa2"
+          ]
+        },
+        {
+          "Plies": [
+            "30. Rf5xc5+",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r2b1r/pp1k3p/5p2/2R5/1P2R3/4P1PQ/q2P3P/6K1"
+    },
+    {
+      "Type": "result",
+      "Result": "1-0"
+    }
+  ],
+  "1581": [
+    {
+      "Type": "info",
+      "Info": "JUG-URS</br>?</br>Tal, Mihail - Velimirovic, Dragoljub</br>1979.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. d2-d4",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "2. Ng1-f3",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "3. d4-d5",
+            "g7-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "4. Nb1-c3",
+            "Bf8-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "5. e2-e4",
+            "d7-d6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbqk2r/pp2ppbp/3p1np1/2pP4/4P3/2N2N2/PPP2PPP/R1BQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. Bf1-e2",
+            "O-O"
+          ]
+        },
+        {
+          "Plies": [
+            "7. O-O",
+            "Nb8-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "8. Bc1-f4",
+            "Na6-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "9. a2-a4",
+            "a7-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "10. Rf1-e1",
+            "Ra8-b8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1rbq1rk1/1pn1ppbp/p2p1np1/2pP4/P3PB2/2N2N2/1PP1BPPP/R2QR1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. a4-a5",
+            "b7-b5"
+          ]
+        },
+        {
+          "Plies": [
+            "12. a5xb6",
+            "Rb8xb6"
+          ]
+        },
+        {
+          "Plies": [
+            "13. b2-b3",
+            "Nf6-h5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Bf4-d2",
+            "Rb6-b8"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Ra1-a2",
+            "Nc7-b5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1rbq1rk1/4ppbp/p2p2p1/1npP3n/4P3/1PN2N2/R1PBBPPP/3QR1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Nc3xb5",
+            "a6xb5"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Be2-d3",
+            "Qd8-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "18. Qd1-e2",
+            "Bc8-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "19. e4-e5",
+            "Bd7-g4"
+          ]
+        },
+        {
+          "Plies": [
+            "20. e5xd6",
+            "e7xd6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1r3rk1/2q2pbp/3p2p1/1ppP3n/6b1/1P1B1N2/R1PBQPPP/4R1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. Bd3xb5",
+            "Bg4xf3"
+          ]
+        },
+        {
+          "Plies": [
+            "22. g2xf3",
+            "Qc7-c8"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Ra2-a7",
+            "Bg7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Bb5-d7",
+            "Qc8-d8"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Qe2-c4",
+            "Qd8-f6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1r3rk1/R2B1p1p/3p1qp1/2pPb2n/2Q5/1P3P2/2PB1P1P/4R1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Bd7-g4",
+            "Nh5-f4"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Ra7-a4",
+            "Rb8-b4"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Ra4xb4",
+            "c5xb4"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Re1-e4",
+            "g6-g5"
+          ]
+        },
+        {
+          "Plies": [
+            "30. h2-h4",
+            "Rf8-a8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r5k1/5p1p/3p1q2/3Pb1p1/1pQ1RnBP/1P3P2/2PB1P2/6K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. h4xg5",
+            "Ra8-a1+"
+          ]
+        },
+        {
+          "Plies": [
+            "32. Re4-e1",
+            "Ra1xe1+"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Bd2xe1",
+            "Qf6xg5"
+          ]
+        },
+        {
+          "Plies": [
+            "34. Be1xb4",
+            "Kg8-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "35. Qc4-e4",
+            "h7-h5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/5pk1/3p4/3Pb1qp/1B2QnB1/1P3P2/2P2P2/6K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. Qe4-f5",
+            "Nf4-h3+"
+          ]
+        },
+        {
+          "Plies": [
+            "37. Kg1-f1",
+            "Qg5-c1+"
+          ]
+        },
+        {
+          "Plies": [
+            "38. Bb4-e1",
+            "h5xg4"
+          ]
+        },
+        {
+          "Plies": [
+            "39. Qf5xg4+",
+            "Nh3-g5"
+          ]
+        },
+        {
+          "Plies": [
+            "40. f3-f4",
+            "Be5xf4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/5pk1/3p4/3P2n1/5bQ1/1P6/2P2P2/2q1BK2"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Qg4-e2",
+            "Bf4-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "42. Qe2-d3",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/5pk1/3p4/3Pb1n1/8/1P1Q4/2P2P2/2q1BK2"
+    },
+    {
+      "Type": "result",
+      "Result": "0-1"
+    }
+  ],
+  "1582": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>1</br>Polugaevsky, Lev - Tal, Mihail</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. Ng1-f3",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "2. c2-c4",
+            "e7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. Nb1-c3",
+            "d7-d5"
+          ]
+        },
+        {
+          "Plies": [
+            "4. d2-d4",
+            "Bf8-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Bc1-g5",
+            "O-O"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. e2-e3",
+            "h7-h6"
+          ]
+        },
+        {
+          "Plies": [
+            "7. Bg5-h4",
+            "b7-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "8. Qd1-b3",
+            "Bc8-b7"
+          ]
+        },
+        {
+          "Plies": [
+            "9. Bh4xf6",
+            "Be7xf6"
+          ]
+        },
+        {
+          "Plies": [
+            "10. c4xd5",
+            "e6xd5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rn1q1rk1/pbp2pp1/1p3b1p/3p4/3P4/1QN1PN2/PP3PPP/R3KB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Ra1-d1",
+            "Rf8-e8"
+          ]
+        },
+        {
+          "Plies": [
+            "12. Bf1-d3",
+            "Nb8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "13. O-O",
+            "Nc6-a5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Qb3-c2",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "15. d4xc5",
+            "b6xc5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r2qr1k1/pb3pp1/5b1p/n1pp4/8/2NBPN2/PPQ2PPP/3R1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Nc3-a4",
+            "c5-c4"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Bd3-e2",
+            "Qd8-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "18. Na4-c3",
+            "Ra8-d8"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Rd1-d2",
+            "Rd8-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Rf1-d1",
+            "Re8-d8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "3r2k1/pbqr1pp1/5b1p/n2p4/2p5/2N1PN2/PPQRBPPP/3R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. Nf3-d4",
+            "Na5-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Nd4-b5",
+            "Qc7-a5"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Be2xc4",
+            "a7-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Nc3xd5",
+            "Rd7xd5"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Rd2xd5",
+            "Rd8xd5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "6k1/1b3pp1/p1n2b1p/qN1r4/2B5/4P3/PPQ2PPP/3R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Bc4xd5",
+            "Qa5xb5"
+          ]
+        },
+        {
+          "Plies": [
+            "27. a2-a4",
+            "Qb5-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Qc2-e4",
+            "Nc6-d8"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Bd5xb7",
+            "Nd8xb7"
+          ]
+        },
+        {
+          "Plies": [
+            "30. b2-b4",
+            "Kg8-f8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "5k2/1n3pp1/pq3b1p/8/PP2Q3/4P3/5PPP/3R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Rd1-d7",
+            "Nb7-d8"
+          ]
+        },
+        {
+          "Plies": [
+            "32. g2-g3",
+            "Qb6-b8"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Qe4-c4",
+            "Kf8-e8"
+          ]
+        },
+        {
+          "Plies": [
+            "34. Rd7-d5",
+            "Qb8-b7"
+          ]
+        },
+        {
+          "Plies": [
+            "35. b4-b5",
+            "a6-a5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "3nk3/1q3pp1/5b1p/pP1R4/P1Q5/4P1P1/5P1P/6K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. h2-h4",
+            "Bf6-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "37. Rd5-d1",
+            "Nd8-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "38. Qc4-c3",
+            "Be7-b4"
+          ]
+        },
+        {
+          "Plies": [
+            "39. Qc3-e5",
+            "Bb4-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "40. Rd1-c1",
+            "Be7-f6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "4k3/1q3pp1/4nb1p/pP2Q3/P6P/4P1P1/5P2/2R3K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Qe5-d6",
+            "Bf6-d8"
+          ]
+        },
+        {
+          "Plies": [
+            "42. Qd6-a6",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "3bk3/1q3pp1/Q3n2p/pP6/P6P/4P1P1/5P2/2R3K1"
+    },
+    {
+      "Type": "result",
+      "Result": "1-0"
+    }
+  ],
+  "1583": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>2</br>Tal, Mihail - Polugaevsky, Lev</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. e2-e4",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "2. Ng1-f3",
+            "d7-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. d2-d4",
+            "c5xd4"
+          ]
+        },
+        {
+          "Plies": [
+            "4. Nf3xd4",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Nb1-c3",
+            "a7-a6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. Bc1-g5",
+            "e7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "7. f2-f4",
+            "b7-b5"
+          ]
+        },
+        {
+          "Plies": [
+            "8. e4-e5",
+            "d6xe5"
+          ]
+        },
+        {
+          "Plies": [
+            "9. f4xe5",
+            "Qd8-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "10. Bf1xb5+",
+            "a6xb5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnb1kb1r/2q2ppp/4pn2/1p2P1B1/3N4/2N5/PPP3PP/R2QK2R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. e5xf6",
+            "Qc7-e5+"
+          ]
+        },
+        {
+          "Plies": [
+            "12. Qd1-e2",
+            "Qe5xg5"
+          ]
+        },
+        {
+          "Plies": [
+            "13. Nd4xb5",
+            "Ra8-a5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. f6xg7",
+            "Bf8xg7"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Nc3-e4",
+            "Qg5-e5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1nb1k2r/5pbp/4p3/rN2q3/4N3/8/PPP1Q1PP/R3K2R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Nb5-d6+",
+            "Ke8-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "17. O-O",
+            "f7-f5"
+          ]
+        },
+        {
+          "Plies": [
+            "18. Ra1-d1",
+            "Ra5-d5"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Qe2-c4",
+            "Rd5xd1"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Rf1xd1",
+            "f5xe4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1nb4r/4k1bp/3Np3/4q3/2Q1p3/8/PPP3PP/3R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. Nd6xc8+",
+            "Ke7-f7"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Nc8-d6+",
+            "Kf7-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Nd6xe4",
+            "Nb8-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Ne4-f2",
+            "Na6-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "25. b2-b4",
+            "Nc5-a4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "7r/6bp/4p1k1/4q3/nPQ5/8/P1P2NPP/3R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Nf2-g4",
+            "Qe5-f5"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Ng4-e3",
+            "Na4-b2"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Qc4-h4",
+            "Qf5-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Qh4-g4+",
+            "Kg6-h6"
+          ]
+        },
+        {
+          "Plies": [
+            "30. Rd1-e1",
+            "Bg7-f6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "7r/7p/4pb1k/4q3/1P4Q1/4N3/PnP3PP/4R1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. b4-b5",
+            "Rh8-f8"
+          ]
+        },
+        {
+          "Plies": [
+            "32. b5-b6",
+            "Bf6-g5"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Qg4-g3",
+            "Qe5xg3"
+          ]
+        },
+        {
+          "Plies": [
+            "34. h2xg3",
+            "Kh6-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "35. Ne3-g4",
+            "Nb2-c4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "5r2/6kp/1P2p3/6b1/2n3N1/6P1/P1P3P1/4R1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. Re1xe6",
+            "Rf8-b8"
+          ]
+        },
+        {
+          "Plies": [
+            "37. Re6-c6",
+            "Nc4xb6"
+          ]
+        },
+        {
+          "Plies": [
+            "38. Rc6-c7+",
+            "Kg7-g8"
+          ]
+        },
+        {
+          "Plies": [
+            "39. c2-c4",
+            "Nb6-a4"
+          ]
+        },
+        {
+          "Plies": [
+            "40. Kg1-f2",
+            "Rb8-b2+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "6k1/2R4p/8/6b1/n1P3N1/6P1/Pr3KP1/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Kf2-f3",
+            "Rb2xa2"
+          ]
+        },
+        {
+          "Plies": [
+            "42. Kf3-e4",
+            "Ra2-e2+"
+          ]
+        },
+        {
+          "Plies": [
+            "43. Ke4-f5",
+            "Bg5-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "44. Ng4-f6+",
+            "Be7xf6"
+          ]
+        },
+        {
+          "Plies": [
+            "45. Kf5xf6",
+            "Na4-b6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "6k1/2R4p/1n3K2/8/2P5/6P1/4r1P1/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "46. g3-g4",
+            "Re2xg2"
+          ]
+        },
+        {
+          "Plies": [
+            "47. Kf6-g5",
+            "Rg2-d2"
+          ]
+        },
+        {
+          "Plies": [
+            "48. c4-c5",
+            "Nb6-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "49. c5-c6",
+            "Rd2-d5+"
+          ]
+        },
+        {
+          "Plies": [
+            "50. Kg5-h6",
+            "Rd5-d6+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "6k1/2Rn3p/2Pr3K/8/6P1/8/8/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "51. Kh6-g5",
+            "Nd7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "52. Rc7-c8+",
+            "Kg8-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "53. Rc8-c7+",
+            "Ne5-f7+"
+          ]
+        },
+        {
+          "Plies": [
+            "54. Kg5-f5",
+            "h7-h6"
+          ]
+        },
+        {
+          "Plies": [
+            "55. Kf5-e4",
+            "Kg7-f6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/2R2n2/2Pr1k1p/8/4K1P1/8/8/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "56. Rc7-c8",
+            "Rd6-d1"
+          ]
+        },
+        {
+          "Plies": [
+            "57. Rc8-f8",
+            "Rd1-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "58. Rf8-c8",
+            "Nf7-g5+"
+          ]
+        },
+        {
+          "Plies": [
+            "59. Ke4-e3",
+            "Kf6-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "60. Ke3-f4",
+            "Ng5-f7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2R5/4kn2/2Pr3p/8/5KP1/8/8/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "61. Kf4-g3",
+            "Rd6-d3+"
+          ]
+        },
+        {
+          "Plies": [
+            "62. Kg3-g2",
+            "Rd3-c3"
+          ]
+        },
+        {
+          "Plies": [
+            "63. Rc8-c7+",
+            "Ke7-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "64. Rc7-c8",
+            "Nf7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "65. c6-c7",
+            "Ne5-f7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2R5/2P2n2/5k1p/8/6P1/2r5/6K1/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "66. Rc8-g8",
+            "Rc3xc7"
+          ]
+        },
+        {
+          "Plies": [
+            "67. Kg2-g3",
+            "Rc7-c1"
+          ]
+        },
+        {
+          "Plies": [
+            "68. Rg8-a8",
+            "Nf7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "69. Ra8-f8+",
+            "Kf6-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "70. Rf8-f5",
+            "Rc1-c3+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "8/6k1/7p/4nR2/6P1/2r3K1/8/8"
+    },
+    {
+      "Type": "result",
+      "Result": "0-1"
+    }
+  ],
+  "1584": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>3</br>Polugaevsky, Lev - Tal, Mihail</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. Ng1-f3",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "2. c2-c4",
+            "e7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. Nb1-c3",
+            "d7-d5"
+          ]
+        },
+        {
+          "Plies": [
+            "4. d2-d4",
+            "Bf8-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Bc1-g5",
+            "O-O"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. e2-e3",
+            "h7-h6"
+          ]
+        },
+        {
+          "Plies": [
+            "7. Bg5-h4",
+            "b7-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "8. Qd1-b3",
+            "Bc8-b7"
+          ]
+        },
+        {
+          "Plies": [
+            "9. Bh4xf6",
+            "Be7xf6"
+          ]
+        },
+        {
+          "Plies": [
+            "10. c4xd5",
+            "e6xd5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rn1q1rk1/pbp2pp1/1p3b1p/3p4/3P4/1QN1PN2/PP3PPP/R3KB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Ra1-d1",
+            "Rf8-e8"
+          ]
+        },
+        {
+          "Plies": [
+            "12. Bf1-d3",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "13. d4xc5",
+            "Nb8-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "14. c5-c6",
+            "Bb7xc6"
+          ]
+        },
+        {
+          "Plies": [
+            "15. O-O",
+            "Nd7-c5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r2qr1k1/p4pp1/1pb2b1p/2np4/8/1QNBPN2/PP3PPP/3R1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Qb3-c2",
+            "Ra8-c8"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Nf3-d4",
+            "Bf6xd4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2rqr1k1/p4pp1/1pb4p/2np4/3b4/2NBP3/PPQ2PPP/3R1RK1"
+    },
+    {
+      "Type": "result",
+      "Result": "1/2-1/2"
+    }
+  ],
+  "1585": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>4</br>Tal, Mihail - Polugaevsky, Lev</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. e2-e4",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "2. Ng1-f3",
+            "d7-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. d2-d4",
+            "c5xd4"
+          ]
+        },
+        {
+          "Plies": [
+            "4. Nf3xd4",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Nb1-c3",
+            "a7-a6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. Bc1-g5",
+            "e7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "7. f2-f4",
+            "b7-b5"
+          ]
+        },
+        {
+          "Plies": [
+            "8. e4-e5",
+            "d6xe5"
+          ]
+        },
+        {
+          "Plies": [
+            "9. f4xe5",
+            "Qd8-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "10. e5xf6",
+            "Qc7-e5+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnb1kb1r/5ppp/p3pP2/1p2q1B1/3N4/2N5/PPP3PP/R2QKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Bf1-e2",
+            "Qe5xg5"
+          ]
+        },
+        {
+          "Plies": [
+            "12. Qd1-d3",
+            "Qg5xf6"
+          ]
+        },
+        {
+          "Plies": [
+            "13. Rh1-f1",
+            "Qf6-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Ra1-d1",
+            "Ra8-a7"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Nd4-f3",
+            "Qe5-c7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1nb1kb1r/r1q2ppp/p3p3/1p6/8/2NQ1N2/PPP1B1PP/3RKR2"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Nf3-g5",
+            "f7-f5"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Qd3-d4",
+            "h7-h5"
+          ]
+        },
+        {
+          "Plies": [
+            "18. Rf1xf5",
+            "e6xf5"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Nc3-d5",
+            "Qc7-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Qd4-h4",
+            "Bf8-e7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1nb1k2r/r2qb1p1/p7/1p1N1pNp/7Q/8/PPP1B1PP/3RK3"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. Ke1-f1",
+            "Be7xg5"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Be2xh5+",
+            "Ke8-f8"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Qh4xg5",
+            "Rh8xh5"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Qg5xh5",
+            "Qd7-f7"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Qh5-h8+",
+            "Qf7-g8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1nb2kqQ/r5p1/p7/1p1N1p2/8/8/PPP3PP/3R1K2"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Qh8-h4",
+            "Kf8-f7"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Qh4-h5+",
+            "g7-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Qh5-h4",
+            "Qg8-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Qh4-d8",
+            "Bc8-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "30. Qd8xb8",
+            "Ra7-d7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1Q6/3r1kq1/p3b1p1/1p1N1p2/8/8/PPP3PP/3R1K2"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. c2-c4",
+            "b5xc4"
+          ]
+        },
+        {
+          "Plies": [
+            "32. Nd5-c3",
+            "Rd7xd1+"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Nc3xd1",
+            "Qg7-d4"
+          ]
+        },
+        {
+          "Plies": [
+            "34. Nd1-c3",
+            "Qd4-d3+"
+          ]
+        },
+        {
+          "Plies": [
+            "35. Kf1-f2",
+            "Qd3-d4+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1Q6/5k2/p3b1p1/5p2/2pq4/2N5/PP3KPP/8"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. Kf2-f1",
+            "Qd4-d3+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1Q6/5k2/p3b1p1/5p2/2p5/2Nq4/PP4PP/5K2"
+    },
+    {
+      "Type": "result",
+      "Result": "1/2-1/2"
+    }
+  ],
+  "1586": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>5</br>Polugaevsky, Lev - Tal, Mihail</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. Ng1-f3",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "2. c2-c4",
+            "g7-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. Nb1-c3",
+            "Bf8-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "4. e2-e4",
+            "d7-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. d2-d4",
+            "O-O"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. Bf1-e2",
+            "e7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "7. O-O",
+            "Nb8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "8. d4-d5",
+            "Nc6-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "9. Nf3-e1",
+            "Nf6-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "10. Ne1-d3",
+            "f7-f5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP2BPPP/R1BQ1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Bc1-d2",
+            "f5xe4"
+          ]
+        },
+        {
+          "Plies": [
+            "12. Nc3xe4",
+            "Nd7-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "13. Ne4xf6+",
+            "Bg7xf6"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Bd2-c3",
+            "Ne7-f5"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Be2-f3",
+            "Bf6-g7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bq1rk1/ppp3bp/3p2p1/3Ppn2/2P5/2BN1B2/PP3PPP/R2Q1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Bf3-e4",
+            "Qd8-h4"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Rf1-e1",
+            "b7-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "18. g2-g3",
+            "Qh4-g5"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Qd1-c1",
+            "Qg5xc1"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Ra1xc1",
+            "a7-a5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1b2rk1/2p3bp/1p1p2p1/p2Ppn2/2P1B3/2BN2P1/PP3P1P/2R1R1K1"
+    },
+    {
+      "Type": "result",
+      "Result": "1/2-1/2"
+    }
+  ],
+  "1587": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>6</br>Tal, Mihail - Polugaevsky, Lev</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. e2-e4",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "2. Ng1-f3",
+            "e7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. d2-d4",
+            "c5xd4"
+          ]
+        },
+        {
+          "Plies": [
+            "4. Nf3xd4",
+            "Nb8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Nb1-c3",
+            "a7-a6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. g2-g3",
+            "d7-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "7. Bf1-g2",
+            "Bc8-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "8. O-O",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "9. b2-b3",
+            "Bf8-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "10. Nc3-e2",
+            "Ra8-c8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2rqk2r/1p1bbppp/p1nppn2/8/3NP3/1P4P1/P1P1NPBP/R1BQ1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. c2-c4",
+            "b7-b5"
+          ]
+        },
+        {
+          "Plies": [
+            "12. c4xb5",
+            "Nc6xd4"
+          ]
+        },
+        {
+          "Plies": [
+            "13. Ne2xd4",
+            "a6xb5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Bc1-d2",
+            "O-O"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Rf1-e1",
+            "Rf8-e8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2rqr1k1/3bbppp/3ppn2/1p6/3NP3/1P4P1/P2B1PBP/R2QR1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Bd2-b4",
+            "Qd8-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Qd1-d2",
+            "Nf6-g4"
+          ]
+        },
+        {
+          "Plies": [
+            "18. Nd4-f3",
+            "Bd7-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Ra1-c1",
+            "e6-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Qd2-e2",
+            "Ng4-f6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r1r1k1/4bppp/1qbp1n2/1p2p3/1B2P3/1P3NP1/P3QPBP/2R1R1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. Nf3-d2",
+            "Qb6-b7"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Bg2-h3",
+            "Bc6-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Bh3xd7",
+            "Qb7xd7"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Nd2-b1",
+            "Nf6xe4"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Rc1xc8",
+            "Re8xc8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r3k1/3qbppp/3p4/1p2p3/1B2n3/1P4P1/P3QP1P/1N2R1K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Qe2xe4",
+            "d6-d5"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Qe4xe5",
+            "Be7xb4"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Re1-d1",
+            "Qd7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Qe5-d4",
+            "Qe6-e2"
+          ]
+        },
+        {
+          "Plies": [
+            "30. Rd1-f1",
+            "Bb4-c5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r3k1/5ppp/8/1pbp4/3Q4/1P4P1/P3qP1P/1N3RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Qd4xd5",
+            "Qe2xa2"
+          ]
+        },
+        {
+          "Plies": [
+            "32. Nb1-c3",
+            "Qa2-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Qd5-d3",
+            "Qa6-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "34. Nc3-d5",
+            "Qb6-b7"
+          ]
+        },
+        {
+          "Plies": [
+            "35. Rf1-d1",
+            "h7-h6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r3k1/1q3pp1/7p/1pbN4/8/1P1Q2P1/5P1P/3R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. Qd3-f3",
+            "Qb7-a8"
+          ]
+        },
+        {
+          "Plies": [
+            "37. Rd1-d3",
+            "Bc5-f8"
+          ]
+        },
+        {
+          "Plies": [
+            "38. h2-h4",
+            "Rc8-c1+"
+          ]
+        },
+        {
+          "Plies": [
+            "39. Kg1-h2",
+            "Qa8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "40. Kh2-g2",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "5bk1/5pp1/2q4p/1p1N4/7P/1P1R1QP1/5PK1/2r5"
+    },
+    {
+      "Type": "result",
+      "Result": "1/2-1/2"
+    }
+  ],
+  "1588": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>7</br>Polugaevsky, Lev - Tal, Mihail</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. Ng1-f3",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "2. c2-c4",
+            "g7-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. Nb1-c3",
+            "Bf8-g7"
+          ]
+        },
+        {
+          "Plies": [
+            "4. e2-e4",
+            "d7-d6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. d2-d4",
+            "O-O"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. Bf1-e2",
+            "e7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "7. O-O",
+            "Nb8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "8. d4-d5",
+            "Nc6-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "9. Nf3-e1",
+            "Nf6-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "10. Ne1-d3",
+            "f7-f5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP2BPPP/R1BQ1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Bc1-d2",
+            "Nd7-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "12. f2-f3",
+            "f5-f4"
+          ]
+        },
+        {
+          "Plies": [
+            "13. c4-c5",
+            "g6-g5"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Ra1-c1",
+            "Ne7-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "15. c5xd6",
+            "c7xd6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bq1rk1/pp4bp/3p1nn1/3Pp1p1/4Pp2/2NN1P2/PP1BB1PP/2RQ1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Nc3-b5",
+            "Rf8-f7"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Qd1-c2",
+            "Nf6-e8"
+          ]
+        },
+        {
+          "Plies": [
+            "18. a2-a4",
+            "h7-h5"
+          ]
+        },
+        {
+          "Plies": [
+            "19. Nd3-f2",
+            "Bg7-f8"
+          ]
+        },
+        {
+          "Plies": [
+            "20. h2-h3",
+            "Rf7-g7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bqnbk1/pp4r1/3p2n1/1N1Pp1pp/P3Pp2/5P1P/1PQBBNP1/2R2RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. a4-a5",
+            "Bc8-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Qc2-b3",
+            "Ng6-h4"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Bd2-e1",
+            "Bf8-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Rc1-c3",
+            "Be7-f8"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Rc3-c2",
+            "Kg8-h7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r2qnb2/pp1b2rk/3p4/PN1Pp1pp/4Pp1n/1Q3P1P/1PR1BNP1/4BRK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Rc2-c3",
+            "Kh7-h8"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Qb3-d1",
+            "a7-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Nb5-a3",
+            "Qd8xa5"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Rc3-c8",
+            "Qa5xe1"
+          ]
+        },
+        {
+          "Plies": [
+            "30. Rc8xa8",
+            "Qe1-b4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "R3nb1k/1p1b2r1/p2p4/3Pp1pp/1q2Pp1n/N4P1P/1P2BNP1/3Q1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Na3-c4",
+            "Qb4-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "32. Qd1-d2",
+            "b7-b5"
+          ]
+        },
+        {
+          "Plies": [
+            "33. b2-b4",
+            "Qc5-c7"
+          ]
+        },
+        {
+          "Plies": [
+            "34. Nc4-a5",
+            "Qc7-b6"
+          ]
+        },
+        {
+          "Plies": [
+            "35. Na5-c6",
+            "Rg7-g8"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "R3nbrk/3b4/pqNp4/1p1Pp1pp/1P2Pp1n/5P1P/3QBNP1/5RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "36. Rf1-a1",
+            "Bd7xc6"
+          ]
+        },
+        {
+          "Plies": [
+            "37. d5xc6",
+            "Qb6xc6"
+          ]
+        },
+        {
+          "Plies": [
+            "38. Ra1xa6",
+            "Qc6-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "39. Ra6-a7",
+            "Qd7-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "40. Qd2-d5",
+            "Qc6-c1+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "R3nbrk/R7/3p4/1p1Qp1pp/1P2Pp1n/5P1P/4BNP1/2q3K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "41. Be2-f1",
+            "g5-g4"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "R3nbrk/R7/3p4/1p1Qp2p/1P2Pppn/5P1P/5NP1/2q2BK1"
+    },
+    {
+      "Type": "result",
+      "Result": "1-0"
+    }
+  ],
+  "1589": [
+    {
+      "Type": "info",
+      "Info": "Candidats qf1</br>8</br>Tal, Mihail - Polugaevsky, Lev</br>1980.??.??"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "1. e2-e4",
+            "c7-c5"
+          ]
+        },
+        {
+          "Plies": [
+            "2. Ng1-f3",
+            "e7-e6"
+          ]
+        },
+        {
+          "Plies": [
+            "3. d2-d4",
+            "c5xd4"
+          ]
+        },
+        {
+          "Plies": [
+            "4. Nf3xd4",
+            "Nb8-c6"
+          ]
+        },
+        {
+          "Plies": [
+            "5. Nd4-b5",
+            "d7-d6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bqkbnr/pp3ppp/2npp3/1N6/4P3/8/PPP2PPP/RNBQKB1R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "6. c2-c4",
+            "Ng8-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "7. Nb1-c3",
+            "a7-a6"
+          ]
+        },
+        {
+          "Plies": [
+            "8. Nb5-a3",
+            "Bf8-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "9. Bf1-e2",
+            "O-O"
+          ]
+        },
+        {
+          "Plies": [
+            "10. O-O",
+            "b7-b6"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r1bq1rk1/4bppp/ppnppn2/8/2P1P3/N1N5/PP2BPPP/R1BQ1RK1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "11. Bc1-e3",
+            "Nc6-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "12. f2-f3",
+            "Bc8-b7"
+          ]
+        },
+        {
+          "Plies": [
+            "13. Qd1-e1",
+            "Rf8-e8"
+          ]
+        },
+        {
+          "Plies": [
+            "14. Qe1-f2",
+            "Ne5-d7"
+          ]
+        },
+        {
+          "Plies": [
+            "15. Rf1-d1",
+            "Qd8-c7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "r3r1k1/1bqnbppp/pp1ppn2/8/2P1P3/N1N1BP2/PP2BQPP/R2R2K1"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "16. Ra1-c1",
+            "Ra8-c8"
+          ]
+        },
+        {
+          "Plies": [
+            "17. Kg1-h1",
+            "Qc7-b8"
+          ]
+        },
+        {
+          "Plies": [
+            "18. g2-g4",
+            "h7-h6"
+          ]
+        },
+        {
+          "Plies": [
+            "19. h2-h4",
+            "Nf6-h7"
+          ]
+        },
+        {
+          "Plies": [
+            "20. Be3-f4",
+            "g7-g5"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "1qr1r1k1/1b1nbp1n/pp1pp2p/6p1/2P1PBPP/N1N2P2/PP2BQ2/2RR3K"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "21. h4xg5",
+            "h6xg5"
+          ]
+        },
+        {
+          "Plies": [
+            "22. Bf4-g3",
+            "Nh7-f8"
+          ]
+        },
+        {
+          "Plies": [
+            "23. Qf2-h2",
+            "Nd7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "24. Qh2-h6",
+            "Nf8-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "25. Kh1-g2",
+            "Qb8-c7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r1r1k1/1bq1bp2/pp1pp1nQ/4n1p1/2P1P1P1/N1N2PB1/PP2B1K1/2RR4"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "26. Rd1-h1",
+            "Be7-f6"
+          ]
+        },
+        {
+          "Plies": [
+            "27. Na3-c2",
+            "Qc7-e7"
+          ]
+        },
+        {
+          "Plies": [
+            "28. Nc2-e3",
+            "Ng6-h4+"
+          ]
+        },
+        {
+          "Plies": [
+            "29. Kg2-f2",
+            "Ne5-g6"
+          ]
+        },
+        {
+          "Plies": [
+            "30. Rc1-d1",
+            "Bf6-g7"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r1r1k1/1b2qpb1/pp1pp1nQ/6p1/2P1P1Pn/2N1NPB1/PP2BK2/3R3R"
+    },
+    {
+      "Type": "moves",
+      "Moves": [
+        {
+          "Plies": [
+            "31. Qh6-h5",
+            "Bg7-e5"
+          ]
+        },
+        {
+          "Plies": [
+            "32. Bg3xh4",
+            "g5xh4"
+          ]
+        },
+        {
+          "Plies": [
+            "33. Ne3-g2",
+            "Be5-g3+"
+          ]
+        }
+      ]
+    },
+    {
+      "Type": "position",
+      "Position": "2r1r1k1/1b2qp2/pp1pp1n1/7Q/2P1P1Pp/2N2Pb1/PP2BKN1/3R3R"
+    },
+    {
+      "Type": "result",
+      "Result": "1/2-1/2"
+    }
+  ]
+}
